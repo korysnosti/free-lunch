@@ -207,7 +207,7 @@
     <details>
       <summary><a href="#онлайн-сервіси">Онлайн-сервіси</a></summary>
       <ul>
-        <li><a href="#сервіси-для-пошуку-додатків">Сервіси для пошуку додатків</a></li>
+        <li><a href="#сервіси-для-пошуку-застосунків">Сервіси для пошуку застосунків</a></li>
         <li><a href="#посібники-з-конфіденційності-та-безпеки">Посібники з конфіденційності та безпеки</a></li>
         <li><a href="#пошукові-системи">Пошукові системи</a></li>
         <li><a href="#обмін-секретами">Обмін секретами</a></li>
@@ -348,7 +348,7 @@
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) - Модульний кросплатформовий аудіоплеєр. [![repo][repo.svg]](https://github.com/DeaDBeeF-Player/deadbeef)
 - [Dopamine](https://www.digimezzo.com/) - Елегантний аудіоплеєр, який намагається зробити організацію та прослуховування музики якомога простішим та красивішим. [![repo][repo.svg]](https://github.com/digimezzo/dopamine) ![open][open.svg]
 - ❤️ [foobar2000](https://www.foobar2000.org/) - Просунутий безкоштовний аудіоплеєр. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PDJ8X9SPF2K)
-- [Harmonoid](https://harmonoid.com/) - Елегантний музичний додаток для відтворення та керування музичною бібліотекою. [![repo][repo.svg]](https://github.com/harmonoid/harmonoid)
+- [Harmonoid](https://harmonoid.com/) - Елегантний музичний застосунок для відтворення та керування музичною бібліотекою. [![repo][repo.svg]](https://github.com/harmonoid/harmonoid)
 - [Moosync](https://moosync.app/) - Настроюваний настільний музичний плеєр з чистим інтерфейсом. [![repo][repo.svg]](https://github.com/Moosync/Moosync) ![open][open.svg]
 - [Museeks](https://museeks.io/) - Простий, чистий та кросплатформовий музичний плеєр. [![repo][repo.svg]](https://github.com/martpie/museeks) ![open][open.svg]
 - ❤️ [MusicBee](https://www.getmusicbee.com/) - Музичний менеджер та плеєр. [![store][store.svg]](https://apps.microsoft.com/store/detail/9P4CLT2RJ1RS)
@@ -376,8 +376,8 @@
 - [muffon](https://muffon.netlify.app/) - Браузер для стримінгу музики. [![repo][repo.svg]](https://github.com/staniel359/muffon) ![open][open.svg]
 - ❤️ [nuclear](https://nuclear.js.org/) - Плеєр для стримінгу музики, який знаходить для вас безкоштовну музику. [![repo][repo.svg]](https://github.com/nukeop/nuclear) ![open][open.svg]
 - [Spotube](https://spotube.krtirtho.dev/) - Легкий безкоштовний кросплатформовий клієнт Spotify, який самостійно обробляє відтворення, транслює музику за допомогою Youtube і не потребує преміум-акаунта Spotify. [![repo][repo.svg]](https://github.com/KRTirtho/spotube)
-- [YouTube Music Desktop](https://ytmdesktop.app/) - Десктопний додаток для YouTube Music.
-- [YouTube Music](https://th-ch.github.io/youtube-music/) - Десктопний додаток YouTube Music з кастомними плагінами (та вбудованим блокувальником реклами / завантажувачем). [![repo][repo.svg]](https://github.com/th-ch/youtube-music) ![open][open.svg]
+- [YouTube Music Desktop](https://ytmdesktop.app/) - Десктопний застосунок для YouTube Music.
+- [YouTube Music](https://th-ch.github.io/youtube-music/) - Десктопний застосунок YouTube Music з кастомними плагінами (та вбудованим блокувальником реклами / завантажувачем). [![repo][repo.svg]](https://github.com/th-ch/youtube-music) ![open][open.svg]
 
 ### Редактори тегів музики
 
@@ -410,7 +410,7 @@
 - [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Конвертуйте електронні книги в аудіокниги з розділами та метаданими за допомогою динамічних моделей ШІ та клонування голосу. Підтримує 1,107+ мов!
 - [Carla](https://kx.studio/carla) - Повнофункціональний хост аудіоплагінів з підтримкою багатьох аудіодрайверів та форматів плагінів. [![repo][repo.svg]](https://github.com/falkTX/Carla) ![open][open.svg]
 - [Figaro](https://github.com/symphonly/figaro) - Програма для зміни голосу в реальному часі та звукова панель з відкритим вихідним кодом. ![open][open.svg]
-- [Friture](https://friture.org/) - Додаток для візуалізації та аналізу живих аудіоданих у реальному часі. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PH4BL3F5Q2H) ![open][open.svg]
+- [Friture](https://friture.org/) - Застосунок для візуалізації та аналізу живих аудіоданих у реальному часі. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PH4BL3F5Q2H) ![open][open.svg]
 - [Mechvibes](https://mechvibes.com/) - Додає звуковий відгук до будь-якої клавіатури. [![repo][repo.svg]](https://github.com/hainguyents13/mechvibes)- [MicMute](https://github.com/SaifAqqad/AHK_MicMute) - Керуйте мікрофоном за допомогою гарячих клавіш клавіатури та миші.
 - [Neothesia](https://github.com/PolyMeilex/Neothesia) - Яскраве програмне забезпечення, схоже на Synthesia, для Linux, Windows та macOS. ![open][open.svg]
 - [Piano Trainer](https://zaneh.itch.io/piano-trainer) - Програма для музичної практики з підтримкою MIDI. [![repo][repo.svg]](https://github.com/ZaneH/piano-trainer) ![open][open.svg]
@@ -419,7 +419,7 @@
 - [SonoBus](https://sonobus.net/) - Інструмент для спільної роботи з потоковою передачею аудіо в мережі в реальному часі. [![repo][repo.svg]](https://github.com/sonosaurus/sonobus) ![open][open.svg]
 - [Soundux](https://soundux.rocks/) - Кросплатформова звукова панель з простим користувацьким інтерфейсом. [![repo][repo.svg]](https://github.com/Soundux/Soundux) ![open][open.svg]
 - [Spek](http://spek.cc/) - Безкоштовний аналізатор акустичного спектру. [![repo][repo.svg]](https://github.com/alexkay/spek) ![open][open.svg]
-- [SpleeterGUI](https://github.com/boy1dr/SpleeterGui) - Десктопний додаток для розділення джерел музики. ![open][open.svg]
+- [SpleeterGUI](https://github.com/boy1dr/SpleeterGui) - Десктопний застосунок для розділення джерел музики. ![open][open.svg]
 - [Sunamu](https://github.com/NyaomiDEV/Sunamu) - Показуйте свою поточну пісню стильним способом! ![open][open.svg]
 - [Audio Share](https://github.com/mkckr0/audio-share) - Audio Share може передавати аудіо з комп'ютера Windows/Linux на телефон Android через мережу, так що ваш телефон стає динаміком комп'ютера. ![open][open.svg]
 - [swyh-rs](https://github.com/dheijl/swyh-rs) - Stream What You Hear, написаний на Rust, натхненний SWYH. ![open][open.svg]
@@ -475,7 +475,7 @@
 - [calibre](https://calibre-ebook.com/) - Менеджер електронних книг. [![repo][repo.svg]](https://github.com/kovidgoyal/calibre) ![open][open.svg]
 - [Koodo Reader](https://koodoreader.com/) - Сучасний менеджер та читач електронних книг. [![repo][repo.svg]](https://github.com/troyeguo/koodo-reader) ![open][open.svg]
 - [Readest](https://readest.com/) - Читач електронних книг з відкритим кодом, розроблений для захоплюючого та глибокого читання. [![repo][repo.svg]](https://github.com/readest/readest) ![open][open.svg]
-- [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) - Найкращий безкоштовний додаток для читання електронних книг EPUB, PDF та DAISY 3, аудіокниг та цифрових коміксів. [![repo][repo.svg]](https://github.com/edrlab/thorium-reader) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NFZP1G7M2SC) ![open][open.svg]
+- [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) - Найкращий безкоштовний застосунок для читання електронних книг EPUB, PDF та DAISY 3, аудіокниг та цифрових коміксів. [![repo][repo.svg]](https://github.com/edrlab/thorium-reader) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NFZP1G7M2SC) ![open][open.svg]
 - [YACReader](https://www.yacreader.com/) - Ще один читач коміксів. [![repo][repo.svg]](https://github.com/YACReader/yacreader) ![open][open.svg]
 - [Libation](https://github.com/rmcrackan/Libation) - Менеджер аудіокниг Audible. ![open][open.svg]
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Мультиплатформовий редактор електронних книг у форматі EPUB. ![open][open.svg]
@@ -552,8 +552,8 @@
 
 - [Delta Chat](https://delta.chat/) - Спілкуйтеся через електронну пошту. [![repo][repo.svg]](https://github.com/deltachat/deltachat-desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PJTXX7HN3PK) ![open][open.svg]
 - [Mailspring](https://getmailspring.com/) - Красивий, швидкий та повністю відкритий поштовий клієнт. [![repo][repo.svg]](https://github.com/Foundry376/Mailspring) ![open][open.svg]
-- ❤️ [Thunderbird](https://www.thunderbird.net/) - Безкоштовний поштовий додаток, який легко налаштувати та кастомізувати. [![store][store.svg]](https://apps.microsoft.com/detail/9pm5vm1s3vmq) ![open][open.svg]
-- [Wino Mail](https://www.winomail.app/) - Клон вбудованих додатків Mail & Calendars для Windows. [![repo][repo.svg]](https://github.com/bkaankose/Wino-Mail) [![store][store.svg]](https://apps.microsoft.com/detail/9ncrcvjc50wl) ![open][open.svg]
+- ❤️ [Thunderbird](https://www.thunderbird.net/) - Безкоштовний поштовий застосунок, який легко налаштувати та кастомізувати. [![store][store.svg]](https://apps.microsoft.com/detail/9pm5vm1s3vmq) ![open][open.svg]
+- [Wino Mail](https://www.winomail.app/) - Клон вбудованих застосунків Mail & Calendars для Windows. [![repo][repo.svg]](https://github.com/bkaankose/Wino-Mail) [![store][store.svg]](https://apps.microsoft.com/detail/9ncrcvjc50wl) ![open][open.svg]
 
 #### Сервіси переадресації пошти
 
@@ -577,10 +577,10 @@
 
 - ❤️ [Element](https://element.io/) - Безпечний та незалежний зв'язок, підключений через Matrix. [![repo][repo.svg]](https://github.com/vector-im/element-desktop) ![open][open.svg]
 - [Session](https://getsession.org/) - Месенджер з наскрізним шифруванням. [![repo][repo.svg]](https://github.com/loki-project/session-desktop) ![open][open.svg]
-- ❤️ [Signal](https://signal.org/) - Месенджер з несподіваним акцентом на конфіденційність, у поєднанні з усіма функціями, очікуваними від сучасного IM-додатку. [![repo][repo.svg]](https://github.com/signalapp) ![open][open.svg]
+- ❤️ [Signal](https://signal.org/) - Месенджер з несподіваним акцентом на конфіденційність, у поєднанні з усіма функціями, очікуваними від сучасного IM-застсунку. [![repo][repo.svg]](https://github.com/signalapp) ![open][open.svg]
 - ❤️ [SimpleX](https://simplex.chat/) - Перший месенджер без ідентифікаторів користувачів. [![repo][repo.svg]](https://github.com/simplex-chat/simplex-chat) ![open][open.svg]
-- [Ferdium](https://ferdium.org/) - Настільний додаток, який допомагає вам організувати використання улюблених програм, поєднуючи їх в одному додатку. [![repo][repo.svg]](https://github.com/ferdium/ferdium-app) ![open][open.svg]
-- [Hamsket](https://github.com/TheGoddessInari/hamsket) - Безкоштовний додаток для обміну повідомленнями та електронною поштою, який поєднує поширені веб-додатки в один. ![open][open.svg]
+- [Ferdium](https://ferdium.org/) - Настільний застосунок, який допомагає вам організувати використання улюблених програм, поєднуючи їх в одному застосунку. [![repo][repo.svg]](https://github.com/ferdium/ferdium-app) ![open][open.svg]
+- [Hamsket](https://github.com/TheGoddessInari/hamsket) - Безкоштовний застосунок для обміну повідомленнями та електронною поштою, який поєднує поширені веб-застосунки в один. ![open][open.svg]
 - [Jitsi Meet](https://meet.jit.si) - Безкоштовний екземпляр Jitsi Meet, що забезпечує найсучасніші відеоконференції. [![repo][repo.svg]](https://github.com/jitsi)
 - [Revolt](http://revolt.chat/) - Платформа для спілкування, орієнтована на користувача, створена за допомогою сучасних веб-технологій. [![repo][repo.svg]](https://github.com/revoltchat)
 
@@ -613,7 +613,7 @@
 - [Tabby](https://tabby.sh/) - Висококонфігурований емулятор терміналу, клієнт SSH та серійного порту. [![repo][repo.svg]](https://github.com/Eugeny/tabby) ![open][open.svg]
 - [WezTerm](https://wezfurlong.org/wezterm/) - Кросплатформовий емулятор терміналу та мультиплексор з прискоренням GPU, створений на Rust. [![repo][repo.svg]](https://github.com/wez/wezterm) ![open][open.svg]
 - [WindTerm](https://kingtoolbox.github.io/) - Професійний кросплатформовий термінал SSH/Sftp/Shell/Telnet/Serial. [![repo][repo.svg]](https://github.com/kingToolbox/WindTerm)
-- Windows Terminal - Сучасний, швидкий, ефективний, потужний та продуктивний термінальний додаток для користувачів інструментів командного рядка та оболонок, таких як Command Prompt, PowerShell та WSL.
+- Windows Terminal - Сучасний, швидкий, ефективний, потужний та продуктивний термінальний застосунок для користувачів інструментів командного рядка та оболонок, таких як Command Prompt, PowerShell та WSL.
 - [Oh My Posh](https://ohmyposh.dev/) - Рушій тем для командного рядка будь-якої оболонки. [![repo][repo.svg]](https://github.com/JanDeDobbeleer/oh-my-posh) [![store][store.svg]](https://apps.microsoft.com/detail/XP8K0HKJFRXGCK) ![open][open.svg]
 
 ### Текстові редактори
@@ -671,23 +671,23 @@
 - [Open Video Downloader](https://jely2002.github.io/youtube-dl-gui/) - Кросплатформовий графічний інтерфейс для youtube-dl, створений на Electron та node.js. [![repo][repo.svg]](https://github.com/jely2002/youtube-dl-gui) [![store][store.svg]](https://apps.microsoft.com/store/detail/open-video-downloader/9P53S4T9ZNJ5) ![open][open.svg]
 - [Tartube](https://github.com/axcore/tartube) - Графічний фронтенд для youtube-dl. ![open][open.svg]
 - [Video Downloader](https://github.com/mayeaux/videodownloader) - Завантажувач відео та каналів, що підтримує 110 веб-сайтів.
-- [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Додаток, що дозволяє завантажувати відео з YouTube. ![open][open.svg]
+- [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Застосунок, що дозволяє завантажувати відео з YouTube. ![open][open.svg]
 - [HakuNeko](https://hakuneko.download/) - Кросплатформовий завантажувач манги та аніме з різних веб-сайтів. [![repo][repo.svg]](https://github.com/manga-download/hakuneko)
 - [N_m3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) - Інструмент командного рядка для завантаження m3u8. [![repo][repo.svg]](https://github.com/nilaoda/N_m3u8DL-CLI) ![open][open.svg]
 - [SCrawler](https://github.com/AAndyProgram/SCrawler) - Завантажувач медіа з будь-яких сайтів, включаючи Twitter, Reddit, Instagram, TikTok, PornHub, XHamster, XVIDEOS тощо. ![open][open.svg]
 - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Мультиплатформовий музичний завантажувач на Kotlin, підтримує Spotify, Youtube, Gaana, Jio-Saavn та SoundCloud. ![open][open.svg]
 - [Twitch Leecher](https://github.com/Franiac/TwitchLeecher) - Надзвичайно швидкий та простий у використанні завантажувач VOD з Twitch. ![open][open.svg]
-- [Ytmdl](https://ytmdl.deepjyoti30.dev/) - Простий додаток для отримання пісень з YouTube у форматі mp3 з іменем виконавця, назвою альбому тощо з таких джерел, як iTunes, Spotify, LastFM, Deezer, Gaana тощо. [![repo][repo.svg]](https://github.com/deepjyoti30/ytmdl) ![open][open.svg]
+- [Ytmdl](https://ytmdl.deepjyoti30.dev/) - Простий застосунок для отримання пісень з YouTube у форматі mp3 з іменем виконавця, назвою альбому тощо з таких джерел, як iTunes, Spotify, LastFM, Deezer, Gaana тощо. [![repo][repo.svg]](https://github.com/deepjyoti30/ytmdl) ![open][open.svg]
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Програма командного рядка для завантаження галерей та колекцій зображень з декількох сайтів для хостингу зображень. ![open][open.svg]
 
 ### Торрент-клієнти
 
 - [Instant.io](https://instant.io/) - Потокова передача файлів через WebTorrent (торренти в Інтернеті). [![repo][repo.svg]](https://github.com/webtorrent/instant.io) ![open][open.svg]
 - [PicoTorrent](https://picotorrent.org/) - Крихітний та мінімальний клієнт BitTorrent. [![repo][repo.svg]](https://github.com/picotorrent)
-- [PikaTorrent](https://www.pikatorrent.com/) - Сучасний, простий, підключений та електричний додаток BitTorrent. [![repo][repo.svg]](https://github.com/G-Ray/pikatorrent) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N9GJQ9BDJW3) ![open][open.svg]
+- [PikaTorrent](https://www.pikatorrent.com/) - Сучасний, простий, підключений та електричний застосунок BitTorrent. [![repo][repo.svg]](https://github.com/G-Ray/pikatorrent) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N9GJQ9BDJW3) ![open][open.svg]
 - ❤️ [qBittorrent](https://www.qbittorrent.org/) - qBittorrent прагне бути гарною альтернативою всім іншим клієнтам bittorrent. [![repo][repo.svg]](https://github.com/qbittorrent/qBittorrent) ![open][open.svg]
 - ❤️ [Transmission](https://transmissionbt.com/) - Швидкий, простий та безкоштовний клієнт BitTorrent. [![repo][repo.svg]](https://github.com/transmission/transmission)
-- [WebTorrent](https://webtorrent.io/desktop) - Додаток для потокового відтворення торрентів. [![repo][repo.svg]](https://github.com/webtorrent/webtorrent-desktop) ![open][open.svg]
+- [WebTorrent](https://webtorrent.io/desktop) - Застосунок для потокового відтворення торрентів. [![repo][repo.svg]](https://github.com/webtorrent/webtorrent-desktop) ![open][open.svg]
 
 ## Освіта
 
@@ -731,13 +731,13 @@
 - [Qalculate!](https://qalculate.github.io/) - Багатоцільовий кросплатформний настільний калькулятор. [![repo][repo.svg]](https://github.com/Qalculate/qalculate-gtk) ![open][open.svg]
 - [Scilab](https://www.scilab.org/) - Програмне забезпечення з відкритим вихідним кодом для чисельних обчислень. [![repo][repo.svg]](https://github.com/scilab) ![open][open.svg]
 - [Scratch](https://scratch.mit.edu/) - За допомогою Scratch ви можете програмувати власні інтерактивні історії, ігри та анімації. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PFGJ25JL6X3)
-- [Tabby](https://github.com/natixco/tabby)- Простий настільний додаток для відстеження вашого шкільного розкладу. ![open][open.svg]
+- [Tabby](https://github.com/natixco/tabby)- Простий настільний застосунок для відстеження вашого шкільного розкладу. ![open][open.svg]
 
 ## Управління файлами
 
 ### Пошук дублікатів файлів
 
-- ❤️ [Czkawka](https://github.com/qarmin/czkawka) - Багатофункціональний додаток для пошуку дублікатів, порожніх папок, схожих зображень тощо.
+- ❤️ [Czkawka](https://github.com/qarmin/czkawka) - Багатофункціональний застосунок для пошуку дублікатів, порожніх папок, схожих зображень тощо.
 - ❤️ [dupeGuru](https://dupeguru.voltaicideas.net/) - Кросплатформовий графічний інструмент для пошуку дублікатів файлів у системі. [![repo][repo.svg]](https://github.com/arsenetar/dupeguru) ![open][open.svg]
 - [Video Duplicate Finder](https://github.com/0x90d/videoduplicatefinder) - Кросплатформове програмне забезпечення для пошуку дублікатів відео (та зображень) на жорсткому диску на основі схожості.
 
@@ -769,7 +769,7 @@
 ### Перейменування файлів
 
 - [Ant Renamer](https://www.antp.be/software/renamer) - Безкоштовна програма, яка полегшує перейменування великої кількості файлів та папок за допомогою заданих налаштувань.
-- [File Renamer Diff](https://github.com/soi013/FileRenamerDiff) - Додаток для перейменування файлів з відображенням різниці до та після зміни для Windows. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PH9DKV5XVDB) ![open][open.svg]
+- [File Renamer Diff](https://github.com/soi013/FileRenamerDiff) - Застосунок для перейменування файлів з відображенням різниці до та після зміни для Windows. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PH9DKV5XVDB) ![open][open.svg]
 - [Szyszka](https://github.com/qarmin/szyszka) - Простий, але потужний та швидкий інструмент для масового перейменування файлів. ![open][open.svg]
 
 ## Обмін файлами
@@ -782,7 +782,7 @@
 - [Wormhole](https://wormhole.app/) - Простий, приватний обмін файлами.
 - [SwissTransfer](https://www.swisstransfer.com) - Надсилайте файли до 50 ГБ безкоштовно.
 - [pic.infini](https://pic.infini.fr/) - Безкоштовний та анонімний сервіс для хостингу зображень.
-- [Blaze](https://blaze.vercel.app/) - Веб-додаток для обміну файлами P2P. [![repo][repo.svg]](https://github.com/blenderskool/blaze) ![open][open.svg]
+- [Blaze](https://blaze.vercel.app/) - Веб-застосунок для обміну файлами P2P. [![repo][repo.svg]](https://github.com/blenderskool/blaze) ![open][open.svg]
 - [FilePizza](https://file.pizza/) - Передача файлів peer-to-peer у вашому браузері. [![repo][repo.svg]](https://github.com/kern/filepizza)
 - [PairDrop](https://pairdrop.net/) - Локальний обмін файлами у вашому веб-браузері. [![repo][repo.svg]](https://github.com/schlagmichdoch/PairDrop) ![open][open.svg]
 - [libcimbar](https://cimbar.org/) - Оптимізована реалізація для штрих-кодів з кольоровою матрицею іконок. [![repo][repo.svg]](https://github.com/sz3/libcimbar) ![open][open.svg]
@@ -792,7 +792,7 @@
 - ❤️ OpenSSH - Додаткові компоненти Windows. OpenSSH — це повна реалізація протоколу SSH (версія 2) для безпечного віддаленого входу, виконання команд та передачі файлів.
 - [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Бездротова, зашифрована передача файлів через автоматично налаштовану ad hoc мережу. ![open][open.svg]
 - ❤️ [LocalSend](https://localsend.org/) - Кросплатформова альтернатива AirDrop з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/localsend/localsend) ![open][open.svg]
-- [Photon](https://photondev.netlify.app/) - Кросплатформовий додаток для передачі файлів, створений за допомогою flutter. [![repo][repo.svg]](https://github.com/abhi16180/photon) ![open][open.svg]
+- [Photon](https://photondev.netlify.app/) - Кросплатформовий застосунок для передачі файлів, створений за допомогою flutter. [![repo][repo.svg]](https://github.com/abhi16180/photon) ![open][open.svg]
 - [Quick Share](https://www.android.com/better-together/quick-share-app/) - За допомогою Quick Share швидко передавайте фотографії, відео, документи, аудіофайли або цілі папки між вашим пристроєм Android та настільними комп'ютерами та ноутбуками з Windows.
 - [SFTPGo](https://sftpgo.com/) - Повнофункціональний та висококонфігурований SFTP-сервер з опціональною підтримкою HTTP/S, FTP/S та WebDAV. [![repo][repo.svg]](https://github.com/drakkan/sftpgo) ![open][open.svg]
 - [Sharik](https://github.com/marchellodev/sharik) - Кросплатформове рішення з відкритим вихідним кодом для обміну файлами через Wi-Fi або мобільну точку доступу. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NGCLB7JSPR9) ![open][open.svg]
@@ -876,7 +876,7 @@
 - [FreeCAD](https://www.freecadweb.org/) - Параметричний 3D-моделер з відкритим вихідним кодом, створений переважно для проектування реальних об'єктів будь-якого розміру. [![repo][repo.svg]](https://github.com/FreeCAD/FreeCAD) ![open][open.svg]
 - [MeshLab](http://www.meshlab.net/) - Система обробки сіток з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/cnr-isti-vclab/meshlab) ![open][open.svg]
 - [OpenSCAD](https://www.openscad.org/) - Програмний 3D CAD моделер для програмістів. [![repo][repo.svg]](https://github.com/openscad/openscad/) ![open][open.svg]
-- [Sweet Home 3D](https://www.sweethome3d.com/) - Безкоштовний додаток для дизайну інтер'єру, який допомагає вам намалювати план вашого будинку, розставити меблі та переглянути результати в 3D.
+- [Sweet Home 3D](https://www.sweethome3d.com/) - Безкоштовний застосунок для дизайну інтер'єру, який допомагає вам намалювати план вашого будинку, розставити меблі та переглянути результати в 3D.
 
 ### Інструменти для дизайну
 
@@ -892,10 +892,10 @@
 - [Drawpile](https://drawpile.net/) - Програма для спільного малювання. [![repo][repo.svg]](https://github.com/drawpile/Drawpile) ![open][open.svg]
 - [FotoSketcher](https://fotosketcher.com/) - Перетворюйте свої фотографії на красиві картини, ескізи або малюнки за лічені секунди.
 - ❤️ [Inkscape](https://inkscape.org/) - Безкоштовний редактор векторної графіки з відкритим вихідним кодом. [![repo][repo.svg]](https://gitlab.com/inkscape/inkscape) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PD9BHGLFC7H) ![open][open.svg]
-- ❤️ [Krita](https://www.krita.org/) - Безкоштовний додаток для цифрового живопису з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/KDE/krita)
+- ❤️ [Krita](https://www.krita.org/) - Безкоштовний застосунок для цифрового живопису з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/KDE/krita)
 - [Milton](https://www.miltonpaint.com/) - Безкоштовна програма для малювання на нескінченному полотні з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/serge-rgb/milton) ![open][open.svg]
 - [Pinta](https://www.pinta-project.com/) - Безкоштовна програма з відкритим вихідним кодом для малювання та редагування зображень. [![repo][repo.svg]](https://github.com/PintaProject/Pinta)
-- [tldraw](https://tldraw.com/) - Маленький додаток для малювання. [![repo][repo.svg]](https://github.com/tldraw/tldraw) ![open][open.svg]
+- [tldraw](https://tldraw.com/) - Маленький застосунок для малювання. [![repo][repo.svg]](https://github.com/tldraw/tldraw) ![open][open.svg]
 
 ### Редактори зображень
 
@@ -910,18 +910,18 @@
 - ❤️ [Photopea](https://www.photopea.com/) - Онлайн-фоторедактор.
 - [Siril](https://siril.org/) - Програмне забезпечення для обробки зображень Siril для аматорської астрономії. [![repo][repo.svg]](https://gitlab.com/free-astro/siril) ![open][open.svg]
 - [Xpano](https://krupkat.github.io/xpano/) - ![open][open.svg]Автоматичний інструмент для зшивання фотографій. [![repo][repo.svg]](https://github.com/krupkat/xpano) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PGQ5X33L0SC) ![open][open.svg]
-- ❤️ [darktable](https://www.darktable.org/) - Додаток для робочого процесу фотографії та розробник RAW з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/darktable-org/darktable) ![open][open.svg]
-- ❤️ [digiKam](https://www.digikam.org/) - Просунутий додаток для управління цифровими фотографіями. [![repo][repo.svg]](https://github.com/KDE/digikam)
+- ❤️ [darktable](https://www.darktable.org/) - Застосунок для робочого процесу фотографії та розробник RAW з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/darktable-org/darktable) ![open][open.svg]
+- ❤️ [digiKam](https://www.digikam.org/) - Просунутий застосунок для управління цифровими фотографіями. [![repo][repo.svg]](https://github.com/KDE/digikam)
 - [Filmulator](https://filmulator.org/) - Спрощене редагування RAW з потужністю плівки. [![repo][repo.svg]](https://github.com/CarVac/filmulator-gui) ![open][open.svg]
 - ❤️ [RawTherapee](http://rawtherapee.com/) - Потужна кросплатформна програма для обробки RAW-фотографій. [![repo][repo.svg]](https://github.com/Beep6581/RawTherapee) ![open][open.svg]
 
 ### Оптимізатори зображень
 
-- [Caesium Image Compressor](https://caesium.app/) - Веб-додаток для стиснення зображень.
+- [Caesium Image Compressor](https://caesium.app/) - Веб-застосунок для стиснення зображень.
 - [Caesium](https://saerasoft.com/caesium) - Кросплатформове програмне забезпечення для стиснення зображень. [![repo][repo.svg]](https://github.com/Lymphatus/caesium-image-compressor) ![open][open.svg]
-- ❤️ [Imagine](https://github.com/meowtec/Imagine) - Настільний додаток для стиснення PNG та JPEG з сучасним та дружнім інтерфейсом. ![open][open.svg]
+- ❤️ [Imagine](https://github.com/meowtec/Imagine) - Настільний застосунок для стиснення PNG та JPEG з сучасним та дружнім інтерфейсом. ![open][open.svg]
 - [MAZANOKE](https://mazanoke.com/) - Локальний оптимізатор зображень, що працює у вашому браузері. [![repo][repo.svg]](https://github.com/civilblur/mazanoke) ![open][open.svg]
-- ❤️ [Squoosh](https://squoosh.app/) - Веб-додаток для стиснення зображень, який зменшує розмір зображень за допомогою численних форматів. [![repo][repo.svg]](https://github.com/GoogleChromeLabs/squoosh) ![open][open.svg]
+- ❤️ [Squoosh](https://squoosh.app/) - Веб-застосунок для стиснення зображень, який зменшує розмір зображень за допомогою численних форматів. [![repo][repo.svg]](https://github.com/GoogleChromeLabs/squoosh) ![open][open.svg]
 
 ### Переглядачі зображень
 
@@ -942,7 +942,7 @@
 - [NAPS2](https://www.naps2.com/) - Скануйте документи в PDF та інші формати якомога простіше. [![repo][repo.svg]](https://github.com/cyanfish/naps2) ![open][open.svg]
 - [NormCap](https://dynobo.github.io/normcap/) - Інструмент для захоплення екрана з OCR для захоплення інформації, а не зображень. [![repo][repo.svg]](https://github.com/dynobo/normcap/)
 - [Paperwork](https://openpaper.work/) - Paperwork — це персональний менеджер документів. Він керує відсканованими документами та PDF-файлами. [![repo][repo.svg]](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) ![open][open.svg]
-- ❤️ [Text Grab](https://github.com/TheJoeFin/Text-Grab) - Швидкий додаток для захоплення будь-якого тексту на екрані за допомогою оптичного розпізнавання символів (OCR), вбудованого в Windows 10. ![open][open.svg]
+- ❤️ [Text Grab](https://github.com/TheJoeFin/Text-Grab) - Швидкий застосунок для захоплення будь-якого тексту на екрані за допомогою оптичного розпізнавання символів (OCR), вбудованого в Windows 10. ![open][open.svg]
 
 ### Піксельні редактори
 
@@ -950,13 +950,13 @@
 - [Piskel](http://piskelapp.com/) - Простий веб-інструмент для створення спрайтів та піксельної графіки. [![repo][repo.svg]](https://github.com/piskelapp/piskel) ![open][open.svg]
 - [Pixelorama](https://orama-interactive.itch.io/pixelorama) - Безкоштовний редактор 2D-спрайтів з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/Orama-Interactive/Pixelorama) ![open][open.svg]
 - [PixiEditor](https://pixieditor.net/) - Легкий редактор піксельної графіки. [![repo][repo.svg]](https://github.com/PixiEditor/PixiEditor) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NDDRHS8PBRN) ![open][open.svg]
-- [Shape Shifter](https://shapeshifter.design/) - Веб-додаток, який спрощує створення анімацій іконок для Android, iOS та Інтернету. [![repo][repo.svg]](https://github.com/alexjlockwood/ShapeShifter) ![open][open.svg]
+- [Shape Shifter](https://shapeshifter.design/) - Веб-застосунок, який спрощує створення анімацій іконок для Android, iOS та Інтернету. [![repo][repo.svg]](https://github.com/alexjlockwood/ShapeShifter) ![open][open.svg]
 
 ### Видалення фону зображень
 
-- [BackgroundRemover](https://backgroundremover.app) - Безкоштовний веб-додаток, який дозволяє видаляти фон з зображень та відео. [![repo][repo.svg]](https://github.com/nadermx/backgroundremover) ![open][open.svg]
+- [BackgroundRemover](https://backgroundremover.app) - Безкоштовний веб-застосунок, який дозволяє видаляти фон з зображень та відео. [![repo][repo.svg]](https://github.com/nadermx/backgroundremover) ![open][open.svg]
 - [BgSub](https://bgsub.com/webapp/) - Веб-сайт, який використовує технологію ШІ для автоматичного видалення або заміни фону зображень.
-- [Cleanup.Picture](https://cleanup.pictures/) - Безкоштовний веб-додаток, який дозволяє швидко очистити або видалити об'єкти на будь-якому зображенні.
+- [Cleanup.Picture](https://cleanup.pictures/) - Безкоштовний веб-застосунок, який дозволяє швидко очистити або видалити об'єкти на будь-якому зображенні.
 - [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - Інструмент для заповнення зображень, що працює на основі передової моделі ШІ. ![open][open.svg]
 - [Rembg](https://github.com/danielgatis/rembg) - Інструмент командного рядка для видалення фону зображень. ![open][open.svg]
 - ~~[Remove.bg](https://www.remove.bg/) - Видаляйте фон із зображень на 100% автоматично за 5 секунд без жодного кліка.~~
@@ -987,7 +987,7 @@
 
 ### VTuber
 
-- [Kalidoface 3D](https://3d.kalidoface.com/) - Веб-додаток, що підтримує 3D-аватари для VTuber. [![repo][repo.svg]](https://github.com/yeemachine/kalidoface-3d) ![open][open.svg]
+- [Kalidoface 3D](https://3d.kalidoface.com/) - Веб-застосунок, що підтримує 3D-аватари для VTuber. [![repo][repo.svg]](https://github.com/yeemachine/kalidoface-3d) ![open][open.svg]
 - [Kalidoface](https://kalidoface.com/) - Станьте віртуальним персонажем лише за допомогою своєї вебкамери! [![repo][repo.svg]](https://github.com/yeemachine/kalidoface) ![open][open.svg]
 - [SysMocap](https://github.com/xianfei/SysMocap) - Система захоплення руху в реальному часі для анімації 3D-віртуальних персонажів. ![open][open.svg]
 - [Vignette](https://github.com/vignetteapp/vignette) - Програмне забезпечення для VTuber з відкритим вихідним кодом. ![open][open.svg]
@@ -1000,35 +1000,35 @@
 ### Інтерактивні дошки
 
 - ❤️ [Excalidraw](https://excalidraw.com/) - Віртуальна дошка для створення діаграм, схожих на намальовані від руки. [![repo][repo.svg]](https://github.com/excalidraw/excalidraw) ![open][open.svg]
-- ❤️ [OpenBoard](https://openboard.ch/) - Кросплатформовий додаток для інтерактивної дошки, призначений для використання в класі. [![repo][repo.svg]](https://github.com/OpenBoard-org/OpenBoard) ![open][open.svg]
+- ❤️ [OpenBoard](https://openboard.ch/) - Кросплатформовий застосунок для інтерактивної дошки, призначений для використання в класі. [![repo][repo.svg]](https://github.com/OpenBoard-org/OpenBoard) ![open][open.svg]
 - [WBO](https://wbo.ophir.dev/) - Онлайн-дошка для спільної роботи, проста, безкоштовна, легка у використанні та розгортанні. [![repo][repo.svg]](https://github.com/lovasoa/whitebophir) ![open][open.svg]
 
 ### Інше
 
 - [Anime4KCPP](https://github.com/TianZerL/Anime4KCPP) - Високопродуктивний апскейлер для аніме. ![open][open.svg]
 - [Stable Diffusion UI](https://stable-diffusion-ui.github.io/) - Надає браузерний інтерфейс для генерації зображень з текстових підказок та зображень. [![repo][repo.svg]](https://github.com/cmdr2/stable-diffusion-ui)- [Upscayl](https://github.com/upscayl/upscayl) - Безкоштовний апскейлер зображень на основі ШІ з відкритим вихідним кодом. ![open][open.svg]
-- [Allusion](https://github.com/allusion-app/Allusion) - Безкоштовний настільний додаток з відкритим вихідним кодом для управління вашою візуальною бібліотекою. ![open][open.svg]
+- [Allusion](https://github.com/allusion-app/Allusion) - Безкоштовний настільний застосунок з відкритим вихідним кодом для управління вашою візуальною бібліотекою. ![open][open.svg]
 - [AndreaMosaic](https://www.andreaplanet.com/andreamosaic/) - За допомогою AndreaMosaic ви можете створювати власні фотомозаїки з ваших фотографій.
 - [Celestia](https://celestiaproject.space/) - 3D-візуалізація космосу в реальному часі. [![repo][repo.svg]](https://github.com/CelestiaProject/Celestia) ![open][open.svg]
-- [Colorpicker](https://colorpicker.fr/) - Мінімалістичний, але повний настільний додаток для вибору кольору. [![repo][repo.svg]](https://github.com/Toinane/colorpicker) ![open][open.svg]
+- [Colorpicker](https://colorpicker.fr/) - Мінімалістичний, але повний настільний застосунок для вибору кольору. [![repo][repo.svg]](https://github.com/Toinane/colorpicker) ![open][open.svg]
 - [Gephi](https://gephi.org/) - Gephi — провідне програмне забезпечення для візуалізації та дослідження всіх видів графів та мереж. [![repo][repo.svg]](https://github.com/gephi/gephi)
 - [Graphviz](https://graphviz.org/) - Програмне забезпечення для візуалізації графів з відкритим вихідним кодом. [![repo][repo.svg]](https://gitlab.com/graphviz/graphviz) ![open][open.svg]
 - [Stellarium](https://stellarium.org/) - Безкоштовний планетарій з відкритим вихідним кодом для вашого комп'ютера. [![repo][repo.svg]](https://github.com/Stellarium/stellarium) ![open][open.svg]
 - [Storyboarder](https://wonderunit.com/storyboarder) - Storyboarder дозволяє легко візуалізувати історію так само швидко, як ви можете намалювати фігурки з паличок. [![repo][repo.svg]](https://github.com/wonderunit/storyboarder)
 - [Tropy](https://tropy.org/) - Управління фотографіями для досліджень. [![repo][repo.svg]](https://github.com/tropy/tropy) ![open][open.svg]
-- [Avataaars generator](https://getavataaars.com/) - Простий генератор React-додатків для avataaars. [![repo][repo.svg]](https://github.com/fangpenlin/avataaars-generator) ![open][open.svg]
+- [Avataaars generator](https://getavataaars.com/) - Простий генератор React-застосунків для avataaars. [![repo][repo.svg]](https://github.com/fangpenlin/avataaars-generator) ![open][open.svg]
 - [Personas by Draftbit](https://personas.draftbit.com/) - Чудовий генератор аватарів від команди Draftbit. [![repo][repo.svg]](https://github.com/draftbit/avatar-generator) ![open][open.svg]
-- [macOS Big Sur - Replacements Icons](https://macosicons.com/) - Замінні іконки для популярних додатків у стилі macOS Big Sur. [![repo][repo.svg]](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) ![open][open.svg]
+- [macOS Big Sur - Replacements Icons](https://macosicons.com/) - Замінні іконки для популярних застосунків у стилі macOS Big Sur. [![repo][repo.svg]](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) ![open][open.svg]
 
 ## Здоров'я та фітнес
 
-- [Ambie](https://ambieapp.com/) - Найкращий додаток з білим шумом для Windows. [![repo][repo.svg]](https://github.com/jenius-apps/ambie) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P07XNM5CHP0) ![open][open.svg]
-- [Flexify](https://flexify.presley.nz/) - Найшвидший додаток для відстеження тренувань у спортзалі. [![repo][repo.svg]](https://github.com/brandonp2412/Flexify) ![open][open.svg]
+- [Ambie](https://ambieapp.com/) - Найкращий застосунок з білим шумом для Windows. [![repo][repo.svg]](https://github.com/jenius-apps/ambie) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P07XNM5CHP0) ![open][open.svg]
+- [Flexify](https://flexify.presley.nz/) - Найшвидший застосунок для відстеження тренувань у спортзалі. [![repo][repo.svg]](https://github.com/brandonp2412/Flexify) ![open][open.svg]
 - [UBPM](https://codeberg.org/LazyT/ubpm) - Керуйте даними про ваш артеріальний тиск на Windows/Linux/macOS. ![open][open.svg]
-- [Eyes Guard](https://github.avestura.dev/EyesGuard) - Додаток для Windows для захисту очей під час роботи з ПК або ноутбуком. [![repo][repo.svg]](https://github.com/avestura/EyesGuard) ![open][open.svg]
+- [Eyes Guard](https://github.avestura.dev/EyesGuard) - Застосунок для Windows для захисту очей під час роботи з ПК або ноутбуком. [![repo][repo.svg]](https://github.com/avestura/EyesGuard) ![open][open.svg]
 - [Pomatez](https://zidoro.github.io/pomatez/) - Таймер Pomodoro з відкритим вихідним кодом, орієнтований на простоту та продуктивність. [![repo][repo.svg]](https://github.com/zidoro/pomatez/) ![open][open.svg]
 - [Pomotroid](https://splode.github.io/pomotroid/) - Простий та візуально приємний таймер Pomodoro. [![repo][repo.svg]](https://github.com/Splode/pomotroid) ![open][open.svg]
-- [Stretchly](https://hovancik.net/stretchly) - Додаток-нагадування про перерви. [![repo][repo.svg]](https://github.com/hovancik/stretchly) ![open][open.svg]
+- [Stretchly](https://hovancik.net/stretchly) - Застосунок-нагадування про перерви. [![repo][repo.svg]](https://github.com/hovancik/stretchly) ![open][open.svg]
 - [Workrave](https://workrave.org/) - Безкоштовна програма, яка допомагає у відновленні та профілактиці травм від повторюваних навантажень (RSI). [![repo][repo.svg]](https://github.com/rcaelers/workrave) ![open][open.svg]
 - [OpenStreetMap](https://www.openstreetmap.org/) - Спільний проект зі створення вільної редагованої карти світу.
 - [QMapShack](https://github.com/Maproom/qmapshack) - Інтуїтивно зрозумілий та ефективний інструмент для планування маршрутів та візуалізації записів GPS. ![open][open.svg]
@@ -1050,12 +1050,12 @@
 
 - [Chrome Remote Desktop](https://remotedesktop.google.com/) - Простий спосіб віддаленого підключення до домашнього або робочого комп'ютера, або демонстрації вашого екрана іншим.
 - [DWService](https://www.dwservice.net/) - Віддалено отримуйте доступ до своїх пристроїв з веб-браузера.
-- Quick Assist - Новий додаток у Windows 10, який дозволяє отримувати або надавати допомогу через віддалене підключення.
+- Quick Assist - Новий застосунок у Windows 10, який дозволяє отримувати або надавати допомогу через віддалене підключення.
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Програмне забезпечення для відображення та керування Android у реальному часі. ![open][open.svg]
 - [RustDesk](https://rustdesk.com/) - Ще одне програмне забезпечення для віддаленого робочого столу. [![repo][repo.svg]](https://github.com/rustdesk/rustdesk) ![open][open.svg]
 - ❤️ [scrcpy](https://github.com/Genymobile/scrcpy) - Відображайте та керуйте своїм пристроєм Android. ![open][open.svg]
 - [TigerVNC](https://tigervnc.org/) - Безкоштовний сервер та клієнт для віддаленого робочого столу. [![repo][repo.svg]](https://github.com/TigerVNC/tigervnc) ![open][open.svg]
-- [TightVNC](https://www.tightvnc.com/) - Безкоштовний додаток для віддаленого робочого столу.
+- [TightVNC](https://www.tightvnc.com/) - Безкоштовний застосунок для віддаленого робочого столу.
 - [mRemoteNG](https://mremoteng.org/) - Менеджер віддалених підключень з відкритим вихідним кодом, що підтримує кілька протоколів та вкладки. [![repo][repo.svg]](https://github.com/mRemoteNG/mRemoteNG) ![open][open.svg]
 - [1Remote](https://github.com/1Remote/1Remote) - Сучасний персональний менеджер та запускач віддалених сесій. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PNMNF92JNFP)
 - [Veyon](https://veyon.io/) - Кросплатформовий моніторинг комп'ютерів та управління класом. [![repo][repo.svg]](https://github.com/veyon/veyon) ![open][open.svg]
@@ -1064,7 +1064,7 @@
 ### Демонстрація екрану
 
 - [Bananas Screen Sharing](https://getbananas.net/) - Простий та легкий у використанні інструмент для демонстрації екрану для Mac, Windows та Linux. [![repo][repo.svg]](https://github.com/mistweaverco/bananas) ![open][open.svg]
-- [Deskreen](https://deskreen.com/) - Настільний додаток, який перетворює будь-який пристрій з веб-браузером на другий екран для вашого комп'ютера через WiFi. [![repo][repo.svg]](https://github.com/pavlobu/deskreen) ![open][open.svg]
+- [Deskreen](https://deskreen.com/) - Настільний застосунок, який перетворює будь-який пристрій з веб-браузером на другий екран для вашого комп'ютера через WiFi. [![repo][repo.svg]](https://github.com/pavlobu/deskreen) ![open][open.svg]
 - [Screego](https://app.screego.net/) - Screego дозволяє вам ділитися своїм екраном з високою якістю та низькою затримкою. [![repo][repo.svg]](https://github.com/screego/server) ![open][open.svg]
 - ❤️ [ScreenTask](https://screentask.me/) - Діліться своїм екраном з локальними пристроями без Інтернету. [![repo][repo.svg]](https://github.com/EslaMx7/ScreenTask)
 
@@ -1076,7 +1076,7 @@
 
 ### Віртуалізація
 
-- [Docker](https://www.docker.com/) - Контейнерна платформа для підприємств для створення, спільного використання та запуску будь-яких додатків. [![repo][repo.svg]](https://github.com/docker/for-win)
+- [Docker](https://www.docker.com/) - Контейнерна платформа для підприємств для створення, спільного використання та запуску будь-яких застосунків. [![repo][repo.svg]](https://github.com/docker/for-win)
 - [Podman](https://podman.io/) - Інструмент для управління контейнерами та подами OCI. [![repo][repo.svg]](https://github.com/containers/podman) ![open][open.svg]
 - ❤️ Hyper-V - Hyper-V — це продукт апаратної віртуалізації від Microsoft.
 - ❤️ [VirtualBox](https://www.virtualbox.org/) - Потужний продукт віртуалізації x86 та AMD64/Intel64 як для корпоративного, так і для домашнього використання.
@@ -1084,20 +1084,20 @@
 - WSA - Підсистема Windows для Android.
 - [wsa_pacman](https://github.com/alesimula/wsa_pacman) - Графічний менеджер пакетів та інсталятор для підсистеми Windows для Android. ![open][open.svg]
 - ❤️ [Sandboxie](https://sandboxie-plus.com/) - Програмне забезпечення для ізоляції на основі пісочниці для 32-бітних та 64-бітних операційних систем на базі Windows NT. [![repo][repo.svg]](https://github.com/sandboxie-plus/Sandboxie) ![open][open.svg]
-- ❤️ Windows Sandbox - Windows Sandbox надає легке настільне середовище для безпечного запуску додатків в ізоляції.
+- ❤️ Windows Sandbox - Windows Sandbox надає легке настільне середовище для безпечного запуску застосунків в ізоляції.
 
 ### Інше
 
 - [LibreSpeed](https://librespeed.org/) - Це дуже легкий Speedtest, реалізований на Javascript, з використанням XMLHttpRequest та Web Workers. [![repo][repo.svg]](https://github.com/librespeed/speedtest) ![open][open.svg]
-- [SwitchHosts](https://switchhosts.vercel.app/) - Додаток для управління файлом hosts. [![repo][repo.svg]](https://github.com/oldj/SwitchHosts) ![open][open.svg]
+- [SwitchHosts](https://switchhosts.vercel.app/) - Застосунок для управління файлом hosts. [![repo][repo.svg]](https://github.com/oldj/SwitchHosts) ![open][open.svg]
 - [Wifinian](https://github.com/emoacht/Wifinian) - Настільний інструмент для Windows, що дозволяє користувачеві активно керувати з'єднаннями Wi-Fi. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PNGFQPS4FLH) ![open][open.svg]
 - [XPipe](https://xpipe.io/) - Новий тип центру підключення до оболонки та віддаленого файлового менеджера, який дозволяє отримувати доступ до всієї вашої серверної інфраструктури з вашого локального комп'ютера. [![repo][repo.svg]](https://github.com/xpipe-io/xpipe) [![store][store.svg]](https://apps.microsoft.com/detail/xp9kk2pj9jdq6g) ![open][open.svg]
 
 ## Онлайн-сервіси
 
-### Сервіси для пошуку додатків
+### Сервіси для пошуку застосунків
 
-- ❤️ [AlternativeTo](https://alternativeto.net/) - Веб-сайт, який містить перелік альтернатив для веб-програм, настільного програмного забезпечення та мобільних додатків.
+- ❤️ [AlternativeTo](https://alternativeto.net/) - Веб-сайт, який містить перелік альтернатив для веб-програм, настільного програмного забезпечення та мобільних застосунків.
 - [Product Hunt](https://www.producthunt.com/) - Веб-сайт, який дозволяє користувачам ділитися та відкривати нові продукти.
 
 ### Посібники з конфіденційності та безпеки
@@ -1120,8 +1120,8 @@
 ### Обмін секретами
 
 - [One-Time Secret](https://onetimesecret.com/) - Тримайте конфіденційну інформацію подалі від вашої електронної пошти та чатів. [![repo][repo.svg]](https://github.com/onetimesecret/onetimesecret) ![open][open.svg]
-- [Paaster](https://paaster.io/) - Безпечний та зручний додаток для вставки тексту, який надає пріоритет конфіденційності та простоті. [![repo][repo.svg]](https://github.com/WardPearce/paaster) ![open][open.svg]
-- [Password Pusher](https://pwpush.com/) - Надзвичайно простий додаток для безпечної передачі паролів через Інтернет. [![repo][repo.svg]](https://github.com/pglombardo/PasswordPusher) ![open][open.svg]
+- [Paaster](https://paaster.io/) - Безпечний та зручний застосунок для вставки тексту, який надає пріоритет конфіденційності та простоті. [![repo][repo.svg]](https://github.com/WardPearce/paaster) ![open][open.svg]
+- [Password Pusher](https://pwpush.com/) - Надзвичайно простий застосунок для безпечної передачі паролів через Інтернет. [![repo][repo.svg]](https://github.com/pglombardo/PasswordPusher) ![open][open.svg]
 - [PrivateBin](https://privatebin.info/) - Мінімалістичний, відкритий онлайн-сервіс для вставки тексту, де сервер не має жодних знань про вставлені дані. [![repo][repo.svg]](https://github.com/PrivateBin/PrivateBin)
 - [Yopass](https://yopass.se/) - Безпечний обмін секретами, паролями та файлами. [![repo][repo.svg]](https://github.com/jhaals/yopass) ![open][open.svg]
 
@@ -1150,12 +1150,12 @@
 - [Piracy Index](https://piracy.vercel.app/) - Цей веб-сайт є колекцією найкращих ресурсів цифрового піратства. [![repo][repo.svg]](https://gitlab.com/piracy/piracy) ![open][open.svg]
 - [degoogle](https://tycrek.github.io/degoogle/) - Величезний список альтернатив продуктам Google. [![repo][repo.svg]](https://github.com/tycrek/degoogle)
 - [Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse) - Підібраний, спільний список чудових ресурсів Fediverse.
-- [delightful fediverse apps](https://codeberg.org/fediverse/delightful-fediverse-apps) - Підібраний список серверних додатків з підтримкою протоколу ActivityPub (мережа Fediverse) та пов'язаних стандартів.
-- ❤️ [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Список безкоштовних мережевих сервісів та веб-додатків, які можна розміщувати на власних серверах.
+- [delightful fediverse apps](https://codeberg.org/fediverse/delightful-fediverse-apps) - Підібраний список серверних застосунків з підтримкою протоколу ActivityPub (мережа Fediverse) та пов'язаних стандартів.
+- ❤️ [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Список безкоштовних мережевих сервісів та веб-застосунків, які можна розміщувати на власних серверах.
 
 ## Особисті фінанси
 
-- [Actual](https://actualbudget.org/) - Додаток для особистих фінансів, що працює локально. [![repo][repo.svg]](https://github.com/actualbudget/actual) ![open][open.svg]
+- [Actual](https://actualbudget.org/) - Застосунок для особистих фінансів, що працює локально. [![repo][repo.svg]](https://github.com/actualbudget/actual) ![open][open.svg]
 - ❤️ [GnuCash](http://www.gnucash.org/) - Менеджер особистих та малого бізнесу фінансів. [![repo][repo.svg]](https://github.com/Gnucash/gnucash) ![open][open.svg]
 - [HomeBank](http://homebank.free.fr/en/) - Безкоштовне програмне забезпечення для особистих фінансів, управління грошима для всіх. [![repo][repo.svg]](https://launchpad.net/homebank)
 - [KMyMoney](https://kmymoney.org/) - Кросплатформовий менеджер особистих фінансів.
@@ -1163,9 +1163,9 @@
 - [Money](https://money.neptuo.com/) - Менеджер особистих витрат. [![repo][repo.svg]](https://github.com/maraf/Money) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N50XHGW891S) ![open][open.svg]
 - [Frappe Books](https://frappe.io/books) - Безкоштовне настільне програмне забезпечення для ведення бухгалтерії для малого бізнесу та фрілансерів. [![repo][repo.svg]](https://github.com/frappe/books) ![open][open.svg]
 - [Portfolio Performance](http://www.portfolio-performance.info/) - Відстежуйте та оцінюйте ефективність вашого інвестиційного портфеля, включаючи акції, криптовалюти та інші активи. [![repo][repo.svg]](https://github.com/portfolio-performance/portfolio) ![open][open.svg]
-- [Wealthfolio](https://wealthfolio.app/) - Красивий приватний та безпечний настільний додаток для відстеження інвестицій. [![repo][repo.svg]](https://github.com/afadil/wealthfolio) ![open][open.svg]
+- [Wealthfolio](https://wealthfolio.app/) - Красивий приватний та безпечний настільний застосунок для відстеження інвестицій. [![repo][repo.svg]](https://github.com/afadil/wealthfolio) ![open][open.svg]
 - [grocy](https://grocy.info/) - Веб-рішення для самостійного розміщення для управління продуктами та домашнім господарством. [![repo][repo.svg]](https://github.com/grocy/grocy) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NWB1TRNNKSF) ![open][open.svg]
-- [rotki](https://rotki.com/) - Додаток для відстеження портфеля, аналітики, бухгалтерського обліку та звітності про податки, який захищає вашу конфіденційність. [![repo][repo.svg]](https://github.com/rotki/rotki) ![open][open.svg]
+- [rotki](https://rotki.com/) - Застосунок для відстеження портфеля, аналітики, бухгалтерського обліку та звітності про податки, який захищає вашу конфіденційність. [![repo][repo.svg]](https://github.com/rotki/rotki) ![open][open.svg]
 
 ## Персоналізація
 
@@ -1178,17 +1178,17 @@
 
 ### Налаштування панелі завдань
 
-- [TaskbarXI](https://chrisandriessen.nl/) - Додаток, написаний на C++, для зміни панелі завдань Windows 11. [![repo][repo.svg]](https://github.com/ChrisAnd1998/TaskbarXI) ![open][open.svg]
+- [TaskbarXI](https://chrisandriessen.nl/) - Застосунок, написаний на C++, для зміни панелі завдань Windows 11. [![repo][repo.svg]](https://github.com/ChrisAnd1998/TaskbarXI) ![open][open.svg]
 - [TaskbarX](https://chrisandriessen.nl/) - TaskbarX дає вам контроль над положенням іконок на панелі завдань. [![repo][repo.svg]](https://github.com/ChrisAnd1998/TaskbarX) ![open][open.svg]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - TranslucentTB пропонує вам контроль над зовнішнім виглядом вашої панелі завдань. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PF4KZ2VN4W9) ![open][open.svg]
 
 ### Керування шпалерами
 
 - [Aerial](https://github.com/OrangeJedi/Aerial) - Заставка Apple TV для Windows. ![open][open.svg]
-- [AlbumPaper](https://github.com/jac0b-w/AlbumPaper) - Додаток для Windows, який змінює шпалери вашого робочого столу на обкладинку альбому пісні, яку ви слухаєте. ![open][open.svg]
+- [AlbumPaper](https://github.com/jac0b-w/AlbumPaper) - Застосунок для Windows, який змінює шпалери вашого робочого столу на обкладинку альбому пісні, яку ви слухаєте. ![open][open.svg]
 - [AutoWall](https://github.com/SegoCode/AutoWall) - Живі шпалери на Windows 10/11 з використанням відкритого рушія шпалер. ![open][open.svg]
 - ❤️ [Lively Wallpaper](https://rocksdanister.com/lively) - Безкоштовне програмне забезпечення з відкритим вихідним кодом, яке дозволяє користувачам встановлювати анімовані шпалери та заставки для робочого столу. [![repo][repo.svg]](https://github.com/rocksdanister/lively) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NTM2QC6QWS7) ![open][open.svg]
-- [ScreenPlay](https://screen-play.app/) - Сучасні, кросплатформові живі шпалери, віджети та ящик додатків! [![repo][repo.svg]](https://gitlab.com/kelteseth/ScreenPlay) ![open][open.svg]
+- [ScreenPlay](https://screen-play.app/) - Сучасні, кросплатформові живі шпалери, віджети та ящик застосунків! [![repo][repo.svg]](https://gitlab.com/kelteseth/ScreenPlay) ![open][open.svg]
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Зробіть живі супутникові зображення фоном вашого робочого столу за допомогою SpaceEye. ![open][open.svg]
 - [Superpaper](https://github.com/hhannine/superpaper) - Кросплатформовий менеджер шпалер для декількох моніторів. ![open][open.svg]
 - [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - WinDynamicDesktop переносить функцію динамічного робочого столу з macOS Mojave на Windows 10. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NM8N7DQ3Z5F) ![open][open.svg]
@@ -1199,7 +1199,7 @@
 - [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor) - Відкритий, компактний та матеріально-дизайнерський набір курсорів. ![open][open.svg]
 - [ElevenClock](https://www.marticliment.com/elevenclock/) - Майте настроюваний годинник на ваших дисплеях Windows 11. [![repo][repo.svg]](https://github.com/marticliment/ElevenClock) [![store][store.svg]](https://apps.microsoft.com/store/detail/elevenclock/XP89HZ8SVWTT0M) ![open][open.svg]
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Цей проект має на меті покращити робоче середовище в Windows. ![open][open.svg]
-- [Mica for Everyone](https://github.com/MicaForEveryone/MicaForEveryone) - Інструмент для ввімкнення ефекту фону на заголовках вікон win32-додатків у Windows 11. ![open][open.svg]
+- [Mica for Everyone](https://github.com/MicaForEveryone/MicaForEveryone) - Інструмент для ввімкнення ефекту фону на заголовках вікон win32-застосунків у Windows 11. ![open][open.svg]
 - [ModernFlyouts](https://modernflyouts-community.github.io/) - Сучасна заміна у стилі Fluent Design для старих спливаючих вікон у стилі Metro в Windows. [![repo][repo.svg]](https://github.com/ModernFlyouts-Community/ModernFlyouts) [![store][store.svg]](https://apps.microsoft.com/store/detail/9MT60QV066RP) ![open][open.svg]
 - [Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn. ![open][open.svg]
 - ❤️ [Rainmeter](https://rainmeter.net/) - Інструмент для налаштування робочого столу для Windows. [![repo][repo.svg]](https://github.com/rainmeter/rainmeter) ![open][open.svg]
@@ -1239,7 +1239,7 @@
 - ❤️ [cppcryptfs](https://github.com/bailey27/cppcryptfs) - Реалізація зашифрованої файлової системи gocryptfs на C++ для Windows. ![open][open.svg]
 - ❤️ [Cryptomator](https://cryptomator.org/) - Мультиплатформове прозоре шифрування ваших файлів на стороні клієнта в хмарі. [![repo][repo.svg]](https://github.com/cryptomator/cryptomator) ![open][open.svg]
 - ❤️ [Gnupg](https://gnupg.org/) - Повна та безкоштовна реалізація стандарту OpenPGP, визначеного PGP. ![open][open.svg]
-- [FileKey](https://filekey.app/) - FileKey — це офлайн-веб-додаток, який дозволяє швидко шифрувати та ділитися файлами за допомогою ключів доступу. [![repo][repo.svg]](https://github.com/RockwellShah/filekey) ![open][open.svg]
+- [FileKey](https://filekey.app/) - FileKey — це офлайн-веб-застосунок, який дозволяє швидко шифрувати та ділитися файлами за допомогою ключів доступу. [![repo][repo.svg]](https://github.com/RockwellShah/filekey) ![open][open.svg]
 - [Hat.sh](https://hat.sh/) - Шифруйте та розшифровуйте файли безпечно у вашому браузері. [![repo][repo.svg]](https://github.com/sh-dv/hat.sh) ![open][open.svg]
 - [Horcrux](https://github.com/jesseduffield/horcrux) - Розділіть ваш файл на зашифровані горокракси, щоб вам не потрібно було пам'ятати пароль. ![open][open.svg]
 - [Kryptor](https://www.kryptor.co.uk/) - Простий, сучасний та безпечний інструмент для шифрування та підпису, який прагне бути кращою версією age та Minisign. [![repo][repo.svg]](https://github.com/samuel-lucas6/Kryptor) ![open][open.svg]
@@ -1258,16 +1258,16 @@
 
 - ❤️ [Bitwarden](https://bitwarden.com/) - Менеджер паролів з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/bitwarden/desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PJSDV0VPK04) ![open][open.svg]
 - ❤️ [KeePassXC](https://keepassxc.org/) - Сучасний, безпечний менеджер паролів з відкритим вихідним кодом, який зберігає та керує вашою найчутливішою інформацією. [![repo][repo.svg]](https://github.com/keepassxreboot/keepassxc) [![store][store.svg]](https://apps.microsoft.com/store/detail/keepassxc/XP8K2L36VP0QMB) ![open][open.svg]
-- [KeeWeb](https://app.keeweb.info) - Цей веб-додаток є браузерним та настільним менеджером паролів, сумісним з базами даних KeePass. [![repo][repo.svg]](https://github.com/keeweb/keeweb) ![open][open.svg]
+- [KeeWeb](https://app.keeweb.info) - Цей веб-застосунок є браузерним та настільним менеджером паролів, сумісним з базами даних KeePass. [![repo][repo.svg]](https://github.com/keeweb/keeweb) ![open][open.svg]
 - [Proton Pass](https://proton.me/pass) - Безкоштовний менеджер паролів із захистом особистих даних. [![repo][repo.svg]](https://github.com/protonpass/) ![open][open.svg]
-- ❤️ [Ente Auth](https://auth.ente.io/) - Безкоштовний кросплатформовий додаток для зберігання ваших 2FA-кодів із наскрізним шифруванням та хмарним резервним копіюванням. [![repo][repo.svg]](https://github.com/ente-io/ente) ![open][open.svg]
+- ❤️ [Ente Auth](https://auth.ente.io/) - Безкоштовний кросплатформовий застосунок для зберігання ваших 2FA-кодів із наскрізним шифруванням та хмарним резервним копіюванням. [![repo][repo.svg]](https://github.com/ente-io/ente) ![open][open.svg]
 - [Diceware Passphrase Generator](https://www.rempe.us/diceware/) - Інструмент для генерації сильних парольних фраз Diceware з оцінками ентропії та часу злому. [![repo][repo.svg]](https://github.com/grempe/diceware) ![open][open.svg]
 - ~~[LessPass](https://www.lesspass.com/) - Менеджер паролів без стану.~~ [![repo][repo.svg]](https://github.com/lesspass/lesspass)
 
 ### Видалення EXIF-даних
 
-- ❤️ [ExifCleaner](https://exifcleaner.com/) - Кросплатформовий настільний графічний додаток для очищення метаданих зображень. [![repo][repo.svg]](https://github.com/szTheory/exifcleaner) ![open][open.svg]
-- [ExifTool](https://exiftool.org/) - ExifTool — це незалежна від платформи бібліотека Perl та додаток командного рядка для читання, запису та редагування метаінформації в широкому спектрі файлів.
+- ❤️ [ExifCleaner](https://exifcleaner.com/) - Кросплатформовий настільний графічний застосунок для очищення метаданих зображень. [![repo][repo.svg]](https://github.com/szTheory/exifcleaner) ![open][open.svg]
+- [ExifTool](https://exiftool.org/) - ExifTool — це незалежна від платформи бібліотека Perl та застосунок командного рядка для читання, запису та редагування метаінформації в широкому спектрі файлів.
 - [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/) - Графічний фронтенд для чудового інструменту командного рядка ExifTool від Філа Гарві. [![repo][repo.svg]](https://github.com/hvdwolf/jExifToolGUI) ![open][open.svg]
 
 ### Налаштування системи
@@ -1296,13 +1296,13 @@
 
 - [Alpha Clicker](https://github.com/robiot/AlphaClicker) - Автоклікер для Windows із сучасним інтерфейсом. ![open][open.svg]
 - [Auto Screen Capture](https://autoscreen.sourceforge.io/) - Утиліта для автоматичного захоплення екрана. [![repo][repo.svg]](https://github.com/gavinkendall/autoscreen) ![open][open.svg]
-- [AutoActions](https://github.com/Codectory/AutoActions) - Дії на основі додатків для зміни налаштувань Windows (дисплей, аудіо) або запуску будь-якої програми чи дії. ![open][open.svg]
+- [AutoActions](https://github.com/Codectory/AutoActions) - Дії на основі застосунків для зміни налаштувань Windows (дисплей, аудіо) або запуску будь-якої програми чи дії. ![open][open.svg]
 - ❤️ [AutoHotkey](https://autohotkey.com/) - Безкоштовна утиліта для створення макросів та автоматизації з відкритим вихідним кодом, що дозволяє користувачам автоматизувати повторювані завдання. [![repo][repo.svg]](https://github.com/AutoHotkey/AutoHotkey) ![open][open.svg]
 - ❤️ [Beeftext](https://beeftext.org/) - Інструмент для текстових фрагментів для Windows. [![repo][repo.svg]](https://github.com/xmichelo/Beeftext) ![open][open.svg]
 - ❤️ [espanso](https://espanso.org/) - Кросплатформовий розширювач тексту, написаний на Rust. [![repo][repo.svg]](https://github.com/federico-terzi/espanso) ![open][open.svg]
 - [Macro Deck](https://macro-deck.app/) - Відкрите програмне забезпечення для використання вашого смартфона, планшета або майже будь-якого сенсорного пристрою з інтернет-браузером як простої макро-панелі або навіть як потужного рішення для автоматизації стрімінгу, ігор, створення контенту тощо. [![repo][repo.svg]](https://github.com/Macro-Deck-org/Macro-Deck) ![open][open.svg]
 - [Mouse Jiggler](https://github.com/arkane-systems/mousejiggler) - Дуже проста програма, єдиною функцією якої є "імітація" введення миші в Windows та переміщення курсора миші туди-сюди. ![open][open.svg]
-- [Power Automate](https://apps.microsoft.com/store/detail/9NFTCH6J7FHV) - Power Automate дозволяє автоматизувати веб- та настільні додатки на вашому робочому столі Windows, імітуючи дії користувацького інтерфейсу, такі як кліки та введення з клавіатури.
+- [Power Automate](https://apps.microsoft.com/store/detail/9NFTCH6J7FHV) - Power Automate дозволяє автоматизувати веб- та настільні застосунки на вашому робочому столі Windows, імітуючи дії користувацького інтерфейсу, такі як кліки та введення з клавіатури.
 - [Shutdown Timer Classic](https://github.com/lukaslangrock/ShutdownTimerClassic) - Виберіть час, і нехай ваш комп'ютер вимкнеться сам. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NTDG6C9BTTW) ![open][open.svg]
 - [SikuliX](https://sikulix.github.io/) - SikuliX автоматизує все, що ви бачите на екрані вашого настільного комп'ютера під керуванням Windows, Mac або деяких Linux/Unix. [![repo][repo.svg]](https://github.com/RaiMan/SikuliX1) ![open][open.svg]
 
@@ -1325,7 +1325,7 @@
 
 - ❤️ [Everything](https://www.voidtools.com/) - Миттєво знаходьте файли та папки за назвою.
 - ❤️ [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Інтеграція Everything у панель завдань Windows.
-- [Orange](https://0-range.github.io/) - Кросплатформовий настільний додаток для пошуку локальних файлів. [![repo][repo.svg]](https://github.com/naaive/orange) ![open][open.svg]
+- [Orange](https://0-range.github.io/) - Кросплатформовий настільний застосунок для пошуку локальних файлів. [![repo][repo.svg]](https://github.com/naaive/orange) ![open][open.svg]
 - [Spyglass](https://docs.spyglass.fyi/) - Персональна пошукова система, скануйте та індексуйте веб-сайти/файли, які ви хочете, за допомогою простого набору правил. [![repo][repo.svg]](https://github.com/spyglass-search/spyglass) ![open][open.svg]
 - ❤️ [dnGrep](https://dngrep.github.io/) - dnGrep дозволяє шукати по файлах з легкочитними результатами. [![repo][repo.svg]](https://github.com/dnGrep/dnGrep) ![open][open.svg]
 - ❤️ [grepWin](https://tools.stefankueng.com/grepWin.html) - Потужний та швидкий інструмент пошуку з використанням регулярних виразів. [![repo][repo.svg]](https://github.com/stefankueng/grepWin) ![open][open.svg]
@@ -1346,41 +1346,41 @@
 
 ### Створення інтелект-карт
 
-- [ASCIIFlow](https://asciiflow.com/) - Веб-додаток, що працює лише на стороні клієнта, для малювання діаграм ASCII. [![repo][repo.svg]](https://github.com/lewish/asciiflow) ![open][open.svg]
+- [ASCIIFlow](https://asciiflow.com/) - Веб-застосунок, що працює лише на стороні клієнта, для малювання діаграм ASCII. [![repo][repo.svg]](https://github.com/lewish/asciiflow) ![open][open.svg]
 - ❤️ [draw.io](https://app.diagrams.net/) - Безкоштовне онлайн-програмне забезпечення для створення діаграм.
-- ❤️ [drawio-desktop](https://www.diagrams.net/) - Відкритий технологічний стек для створення додатків для діаграм. [![repo][repo.svg]](https://github.com/jgraph/drawio-desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/drawio-diagrams/9MVVSZK43QQW)
-- [Gaphor](https://gaphor.org/) - Додаток для моделювання UML та SysML, написаний на Python. [![repo][repo.svg]](https://github.com/gaphor/gaphor) ![open][open.svg]
+- ❤️ [drawio-desktop](https://www.diagrams.net/) - Відкритий технологічний стек для створення застосунків для діаграм. [![repo][repo.svg]](https://github.com/jgraph/drawio-desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/drawio-diagrams/9MVVSZK43QQW)
+- [Gaphor](https://gaphor.org/) - Застосунок для моделювання UML та SysML, написаний на Python. [![repo][repo.svg]](https://github.com/gaphor/gaphor) ![open][open.svg]
 - [Heimer](https://github.com/juzzlin/Heimer) - Простий кросплатформовий інструмент для створення інтелект-карт, діаграм та нотаток, написаний на Qt. ![open][open.svg]
-- [mindmaps](https://www.mindmaps.app/) - Відкритий, офлайн-сумісний додаток для створення інтелект-карт, що використовує технології HTML5. [![repo][repo.svg]](https://github.com/drichard/mindmaps) ![open][open.svg]
-- [My Mind](https://my-mind.github.io/) - Веб-додаток для створення та управління інтелект-картами. [![repo][repo.svg]](https://github.com/ondras/my-mind) ![open][open.svg]
-- [Wireflow](https://app.wireflow.co/) - Додаток для спільної роботи над блок-схемами. [![repo][repo.svg]](https://github.com/vanila-io/wireflow) ![open][open.svg]
+- [mindmaps](https://www.mindmaps.app/) - Відкритий, офлайн-сумісний застосунок для створення інтелект-карт, що використовує технології HTML5. [![repo][repo.svg]](https://github.com/drichard/mindmaps) ![open][open.svg]
+- [My Mind](https://my-mind.github.io/) - Веб-застосунок для створення та управління інтелект-картами. [![repo][repo.svg]](https://github.com/ondras/my-mind) ![open][open.svg]
+- [Wireflow](https://app.wireflow.co/) - Застосунок для спільної роботи над блок-схемами. [![repo][repo.svg]](https://github.com/vanila-io/wireflow) ![open][open.svg]
 
 ### Нотатки
 
 - [AFFiNE](https://affine.pro/) - Affine — це база знань нового покоління, яка об'єднує планування, сортування та створення. [![repo][repo.svg]](https://github.com/toeverything/AFFiNE) ![open][open.svg]
 - [Anytype](https://anytype.io/) - З Anytype ви можете створювати цифрові простори навколо своїх інтересів. [![repo][repo.svg]](https://github.com/anyproto/anytype-ts) ![open][open.svg]
 - [Cryptee](https://crypt.ee/) - Сервіс для документів, нотаток, файлів та фотографій з акцентом на конфіденційність, шифрування та безпеку. [![repo][repo.svg]](https://github.com/cryptee) ![open][open.svg]
-- ❤️ [Joplin](https://joplinapp.org/) - Безкоштовний додаток для нотаток та завдань з відкритим вихідним кодом, який може обробляти велику кількість нотаток, організованих у блокноти. [![repo][repo.svg]](https://github.com/laurent22/joplin) ![open][open.svg]
+- ❤️ [Joplin](https://joplinapp.org/) - Безкоштовний застосунок для нотаток та завдань з відкритим вихідним кодом, який може обробляти велику кількість нотаток, організованих у блокноти. [![repo][repo.svg]](https://github.com/laurent22/joplin) ![open][open.svg]
 - ❤️ [Notesnook](https://notesnook.com/) - Повністю наскрізно зашифрована альтернатива Evernote для нотаток. [![repo][repo.svg]](https://github.com/streetwriters/notesnook) ![open][open.svg]
-- [SilentNotes](https://www.martinstoeckli.ch/silentnotes) - Простий додаток для нотаток, який поважає вашу конфіденційність. [![repo][repo.svg]](https://github.com/martinstoeckli/SilentNotes) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P14JXNCRXSK) ![open][open.svg]
-- ❤️ [Standard Notes](https://standardnotes.com/) - Безкоштовний, відкритий та повністю зашифрований додаток для нотаток. [![repo][repo.svg]](https://github.com/standardnotes/app)
+- [SilentNotes](https://www.martinstoeckli.ch/silentnotes) - Простий застосунок для нотаток, який поважає вашу конфіденційність. [![repo][repo.svg]](https://github.com/martinstoeckli/SilentNotes) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P14JXNCRXSK) ![open][open.svg]
+- ❤️ [Standard Notes](https://standardnotes.com/) - Безкоштовний, відкритий та повністю зашифрований застосунок для нотаток. [![repo][repo.svg]](https://github.com/standardnotes/app)
 - [Simplenote](https://simplenote.com/) - Найпростіший спосіб вести нотатки. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NXQQ40LDW3X)
 - [AppFlowy](https://www.appflowy.io/) - Альтернатива Notion з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/AppFlowy-IO/appflowy) ![open][open.svg]
-- [Beaver Notes](https://beavernotes.com/) - Додаток для нотаток з акцентом на конфіденційність для macOS, Windows та GNU/Linux. [![repo][repo.svg]](https://github.com/Beaver-Notes/Beaver-Notes) ![open][open.svg]
+- [Beaver Notes](https://beavernotes.com/) - Застосунок для нотаток з акцентом на конфіденційність для macOS, Windows та GNU/Linux. [![repo][repo.svg]](https://github.com/Beaver-Notes/Beaver-Notes) ![open][open.svg]
 - [Foam](https://foambubble.github.io/) - Система особистого управління знаннями та обміну ними для VSCode. [![repo][repo.svg]](https://github.com/foambubble/foam) ![open][open.svg]
 - ❤️ [Logseq](https://logseq.com/) - Платформа для управління знаннями та співпраці з відкритим вихідним кодом та пріоритетом конфіденційності. [![repo][repo.svg]](https://github.com/logseq/logseq) ![open][open.svg]
-- [Notes](https://www.notes-foss.com/) - Відкритий та кросплатформовий додаток для нотаток, який є одночасно красивим та потужним. [![repo][repo.svg]](https://github.com/nuttyartist/notes) ![open][open.svg]
+- [Notes](https://www.notes-foss.com/) - Відкритий та кросплатформовий застосунок для нотаток, який є одночасно красивим та потужним. [![repo][repo.svg]](https://github.com/nuttyartist/notes) ![open][open.svg]
 - ❤️ [Obsidian](https://obsidian.md/) - Потужна база знань на основі локальної папки з простими текстовими файлами Markdown.
 - ❤️ [QOwnNotes](https://www.qownnotes.org/) - Нотатник для файлів звичайного тексту та менеджер списків завдань з підтримкою markdown та інтеграцією Nextcloud / ownCloud. [![repo][repo.svg]](https://github.com/pbek/QOwnNotes) ![open][open.svg]
-- [Reor](https://reorproject.org/) - Самоорганізуючий додаток для нотаток на основі ШІ, який запускає моделі локально. [![repo][repo.svg]](https://github.com/reorproject/reor) ![open][open.svg]
-- ❤️ [TriliumNext Notes](https://github.com/TriliumNext/Notes) - Ієрархічний додаток для нотаток з акцентом на створення великих особистих баз знань. ![open][open.svg]
+- [Reor](https://reorproject.org/) - Самоорганізуючий застосунок для нотаток на основі ШІ, який запускає моделі локально. [![repo][repo.svg]](https://github.com/reorproject/reor) ![open][open.svg]
+- ❤️ [TriliumNext Notes](https://github.com/TriliumNext/Notes) - Ієрархічний застосунок для нотаток з акцентом на створення великих особистих баз знань. ![open][open.svg]
 - [VNote](https://app.vnote.fun/) - Приємна платформа для нотаток на нативному C++. [![repo][repo.svg]](https://github.com/vnotex/vnote) ![open][open.svg]
 - ❤️ [Zettlr](https://www.zettlr.com/) - Редактор Markdown для 21 століття. [![repo][repo.svg]](https://github.com/Zettlr/Zettlr) ![open][open.svg]
-- [Butterfly](https://docs.butterfly.linwood.dev/) - Потужний, мінімалістичний, кросплатформовий, відкритий додаток для нотаток. [![repo][repo.svg]](https://github.com/LinwoodCloud/Butterfly) ![open][open.svg]
-- [Lorien](https://github.com/mbrlabs/Lorien) - Додаток для малювання/нотаток на нескінченному полотні, орієнтований на продуктивність, малий розмір файлів збереження та простоту. ![open][open.svg]
-- [Microsoft Journal](https://apps.microsoft.com/store/detail/9N318R854RHH) - Додаток для нотаток, який фокусується на досвіді рукописного введення.
+- [Butterfly](https://docs.butterfly.linwood.dev/) - Потужний, мінімалістичний, кросплатформовий, відкритий застосунок для нотаток. [![repo][repo.svg]](https://github.com/LinwoodCloud/Butterfly) ![open][open.svg]
+- [Lorien](https://github.com/mbrlabs/Lorien) - Застосунок для малювання/нотаток на нескінченному полотні, орієнтований на продуктивність, малий розмір файлів збереження та простоту. ![open][open.svg]
+- [Microsoft Journal](https://apps.microsoft.com/store/detail/9N318R854RHH) - Застосунок для нотаток, який фокусується на досвіді рукописного введення.
 - [Rnote](https://rnote.flxzt.net/) - Малюйте та робіть рукописні нотатки. [![repo][repo.svg]](https://github.com/flxzt/rnote) ![open][open.svg]
-- [Saber](https://saber.adil.hanney.org/) - Кросплатформовий відкритий додаток, створений для рукописного введення. [![repo][repo.svg]](https://github.com/saber-notes/saber) ![open][open.svg]
+- [Saber](https://saber.adil.hanney.org/) - Кросплатформовий відкритий застосунок, створений для рукописного введення. [![repo][repo.svg]](https://github.com/saber-notes/saber) ![open][open.svg]
 - ❤️ [Xournal++](https://xournalpp.github.io/) - Програмне забезпечення для рукописних нотаток з підтримкою анотації PDF. [![repo][repo.svg]](https://github.com/xournalpp/xournalpp) ![open][open.svg]
 
 ### Офісні пакети
@@ -1398,17 +1398,17 @@
 
 ### Редактори PDF
 
-- [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - Невеликий додаток python-gtk, який допомагає користувачеві об'єднувати або розділяти документи PDF та обертати, обрізати та переставляти їх сторінки за допомогою інтерактивного та інтуїтивного графічного інтерфейсу. ![open][open.svg]
+- [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - Невеликий застосунок python-gtk, який допомагає користувачеві об'єднувати або розділяти документи PDF та обертати, обрізати та переставляти їх сторінки за допомогою інтерактивного та інтуїтивного графічного інтерфейсу. ![open][open.svg]
 - [PDF4QT](https://jakubmelka.github.io/) - Редактор PDF з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/JakubMelka/PDF4QT) [![store][store.svg]](https://apps.microsoft.com/detail/9nr60gq66fcd) ![open][open.svg]
-- [PDFsam](https://pdfsam.org/) - Настільний додаток для вилучення сторінок, розділення, об'єднання, змішування та обертання файлів PDF. [![repo][repo.svg]](https://github.com/torakiki/pdfsam) ![open][open.svg]
+- [PDFsam](https://pdfsam.org/) - Настільний застосунок для вилучення сторінок, розділення, об'єднання, змішування та обертання файлів PDF. [![repo][repo.svg]](https://github.com/torakiki/pdfsam) ![open][open.svg]
 - [Signature PDF](https://pdf.24eme.fr/) - Безкоштовне веб-програмне забезпечення з відкритим вихідним кодом для підпису PDF-файлів (самостійно або з іншими), а також для організації сторінок, редагування метаданих та стиснення PDF. [![repo][repo.svg]](https://github.com/24eme/signaturepdf) ![open][open.svg]
-- [Stirling-PDF](https://stirlingpdf.com/) - Локально розміщений веб-додаток, який дозволяє виконувати різні операції з файлами PDF. [![repo][repo.svg]](https://github.com/Stirling-Tools/Stirling-PDF) ![open][open.svg]
+- [Stirling-PDF](https://stirlingpdf.com/) - Локально розміщений веб-застосунок, який дозволяє виконувати різні операції з файлами PDF. [![repo][repo.svg]](https://github.com/Stirling-Tools/Stirling-PDF) ![open][open.svg]
 
 ### Управління завданнями
 
 - [Focalboard](https://www.focalboard.com/) - Відкрита, самостійно розміщена альтернатива Trello, Notion та Asana. [![repo][repo.svg]](https://github.com/mattermost/focalboard) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NLN2T0SX9VF) ![open][open.svg]
 - [Kanban Tasker](https://github.com/hjohnson12/Kanban-Tasker) - Проста особиста канбан-дошка. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NMKTDZ3L9LQ) ![open][open.svg]
-- [sleek](https://github.com/ransome1/sleek) - Додаток для завдань на основі todo.txt. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NWM2WXF60KR) ![open][open.svg]
+- [sleek](https://github.com/ransome1/sleek) - Застосунок для завдань на основі todo.txt. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NWM2WXF60KR) ![open][open.svg]
 - [Super Productivity](http://super-productivity.com/) - Список завдань та відстежувач часу для програмістів та дизайнерів. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NHFVG8361TW)
 - [WeekToDo](https://weektodo.me/) - Безкоштовний мінімалістичний тижневий планувальник з акцентом на конфіденційність. [![repo][repo.svg]](https://github.com/manuelernestog/weektodo-web) ![open][open.svg]
 
@@ -1417,22 +1417,22 @@
 - [ActivityWatch](https://activitywatch.net/) - Найкращий безкоштовний автоматичний відстежувач часу з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/ActivityWatch/activitywatch) ![open][open.svg]
 - [Lotti](https://github.com/matthiasn/lotti) - Lotti допомагає вам відстежувати звички, поведінку, будь-які дані про себе, в повній конфіденційності. ![open][open.svg]
 - [Nomie](https://nomie.app/) - Відстеження настрою та життя з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/open-nomie/nomie5) ![open][open.svg]
-- [Strategr](https://khrykin.github.io/strategr/) - Додаток для управління часом без зайвих клопотів. [![repo][repo.svg]](https://github.com/khrykin/StrategrDesktop) ![open][open.svg]
-- [Tockler](https://tockler.trimatech.dev/) - Додаток, який відстежує ваш час, моніторячи заголовок активного вікна та час простою. [![repo][repo.svg]](https://github.com/MayGo/tockler) ![open][open.svg]
+- [Strategr](https://khrykin.github.io/strategr/) - Застосунок для управління часом без зайвих клопотів. [![repo][repo.svg]](https://github.com/khrykin/StrategrDesktop) ![open][open.svg]
+- [Tockler](https://tockler.trimatech.dev/) - Застосунок, який відстежує ваш час, моніторячи заголовок активного вікна та час простою. [![repo][repo.svg]](https://github.com/MayGo/tockler) ![open][open.svg]
 - [ididit!](https://ididit.today/) - Відстежувач звичок, дружній до прокрастинації. [![repo][repo.svg]](https://github.com/Jinjinov/Ididit) [![store][store.svg]](https://apps.microsoft.com/store/detail/ididit/9P5L0K28XWM3) ![open][open.svg]
-- ~~[Habitica](https://habitica.com/) - Додаток для відстеження звичок, який розглядає ваші цілі як рольову гру.~~ [![repo][repo.svg]](https://github.com/HabitRPG/habitica)
+- ~~[Habitica](https://habitica.com/) - Застосунок для відстеження звичок, який розглядає ваші цілі як рольову гру.~~ [![repo][repo.svg]](https://github.com/HabitRPG/habitica)
 
 ### Погода
 
-- [FluentWeather](https://github.com/Gabboxl/FluentWeather) - Красивий та сучасний погодний додаток UWP для Windows. [![store][store.svg]](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457) ![open][open.svg]
-- [Lively Weather](https://rocksdanister.com/weather) - Нативний погодний додаток для Windows з анімацією на DirectX12. [![repo][repo.svg]](https://github.com/rocksdanister/weather) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PP0MFQFVSC5) ![open][open.svg]
+- [FluentWeather](https://github.com/Gabboxl/FluentWeather) - Красивий та сучасний погодний застосунок UWP для Windows. [![store][store.svg]](https://apps.microsoft.com/store/detail/fluentweather/9PFD136M8457) ![open][open.svg]
+- [Lively Weather](https://rocksdanister.com/weather) - Нативний погодний застосунок для Windows з анімацією на DirectX12. [![repo][repo.svg]](https://github.com/rocksdanister/weather) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PP0MFQFVSC5) ![open][open.svg]
 
 ### Інструменти для письма
 
-- [KIT Scenarist](https://kitscenarist.ru/en/) - Простий та потужний додаток для написання сценаріїв. [![repo][repo.svg]](https://github.com/dimkanovikov/KITScenarist) ![open][open.svg]
+- [KIT Scenarist](https://kitscenarist.ru/en/) - Простий та потужний застосунок для написання сценаріїв. [![repo][repo.svg]](https://github.com/dimkanovikov/KITScenarist) ![open][open.svg]
 - [Manuskript](http://www.theologeek.ch/manuskript) - Відкритий інструмент для письменників. [![repo][repo.svg]](https://github.com/olivierkes/manuskript) ![open][open.svg]
-- [Writing Tools](https://github.com/theJayTea/WritingTools) - Writing Tools — це додаток, натхненний Apple Intelligence, для Windows, Linux та macOS, який розширює ваші можливості письма за допомогою AI LLM (хмарного або локального).
-- [bibisco](https://bibisco.com/) - Відкритий додаток для написання романів. [![repo][repo.svg]](https://github.com/andreafeccomandi/bibisco) ![open][open.svg]
+- [Writing Tools](https://github.com/theJayTea/WritingTools) - Writing Tools — це застосунок, натхненний Apple Intelligence, для Windows, Linux та macOS, який розширює ваші можливості письма за допомогою AI LLM (хмарного або локального).
+- [bibisco](https://bibisco.com/) - Відкритий застосунок для написання романів. [![repo][repo.svg]](https://github.com/andreafeccomandi/bibisco) ![open][open.svg]
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - Кросплатформовий, естетичний, без відволікань редактор Markdown. ![open][open.svg]
 - [novelWriter](https://novelwriter.io/) - Відкритий текстовий редактор, призначений для написання романів. [![repo][repo.svg]](https://github.com/vkbo/novelWriter) ![open][open.svg]
 
@@ -1451,7 +1451,7 @@
 - Phone Link - Підключіть свій телефон Android до ПК, щоб переглядати та відповідати на текстові повідомлення, здійснювати та приймати дзвінки, переглядати сповіщення тощо.
 - [Sefirah](https://github.com/shrimqy/Sefirah) - Альтернатива Phone Link / KDE Connect з дзеркалюванням сповіщень, дзеркалюванням екрана, синхронізацією буфера обміну, передачею файлів, керуванням медіа. [![store][store.svg]](https://apps.microsoft.com/detail/9pjv6d1jpg0h) ![open][open.svg]
 - [ntfy](https://ntfy.sh/) - Простий сервіс сповіщень на основі HTTP з моделлю публікації-підписки. [![repo][repo.svg]](https://github.com/binwiederhier/ntfy) ![open][open.svg]
-- [ClickPaste](https://github.com/Collective-Software/ClickPaste) - Додаток для області сповіщень Windows 10 на C#, який може вставляти вміст буфера обміну як натискання клавіш у будь-яке місце, куди ви клікнете. ![open][open.svg]
+- [ClickPaste](https://github.com/Collective-Software/ClickPaste) - Застосунок для області сповіщень Windows 10 на C#, який може вставляти вміст буфера обміну як натискання клавіш у будь-яке місце, куди ви клікнете. ![open][open.svg]
 - [DropPoint](https://droppoint.netlify.app/) - Полегшіть перетягування за допомогою DropPoint. [![repo][repo.svg]](https://github.com/GameGodS3/DropPoint) ![open][open.svg]
 - ❤️ [QuickLook](https://pooi.moe/QuickLook/) - Перенесіть функцію "Quick Look" з macOS на Windows. [![repo][repo.svg]](https://github.com/QL-Win/QuickLook) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NV4BS3L1H4S) ![open][open.svg]
 
@@ -1460,7 +1460,7 @@
 ### Запускачі програм
 
 - [Cerebro](https://cerebroapp.com/) - Підсилювач продуктивності з відкритим вихідним кодом з мізками. [![repo][repo.svg]](https://github.com/cerebroapp/cerebro) ![open][open.svg]
-- [Flow launcher](https://flowlauncher.com/) - Швидкий пошук файлів та запускач додатків для Windows з плагінами від спільноти. [![repo][repo.svg]](https://github.com/Flow-Launcher/Flow.Launcher) ![open][open.svg]
+- [Flow launcher](https://flowlauncher.com/) - Швидкий пошук файлів та запускач застосунків для Windows з плагінами від спільноти. [![repo][repo.svg]](https://github.com/Flow-Launcher/Flow.Launcher) ![open][open.svg]
 - [Kando](https://kando.menu/) - Кросплатформове кругове меню. [![repo][repo.svg]](https://github.com/kando-menu/kando) ![open][open.svg]
 - [LaunchyQt](https://github.com/samsonwang/LaunchyQt) - LaunchyQt — це форк програми-запускача за натисканням клавіш Launchy, але модернізований. ![open][open.svg]
 - [Pinpoint](https://github.com/dkgv/pinpoint) - Запускач за натисканням клавіш та інструмент для продуктивності. ![open][open.svg]
@@ -1483,7 +1483,7 @@
 - ❤️ [Etcher](https://etcher.io/) - Потужний інструмент для запису образів ОС. [![repo][repo.svg]](https://github.com/balena-io/etcher) ![open][open.svg]
 - ❤️ [Rufus](https://rufus.ie/) - Утиліта, яка допомагає форматувати та створювати завантажувальні USB-накопичувачі. [![repo][repo.svg]](https://github.com/pbatard/rufus) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PC3H3V7Q9CH) ![open][open.svg]
 - [UNetbootin](http://unetbootin.github.io/) - UNetbootin дозволяє створювати завантажувальні Live USB-накопичувачі для Ubuntu та інших дистрибутивів Linux без запису CD. [![repo][repo.svg]](https://github.com/unetbootin/unetbootin)
-- [USBImager](https://gitlab.com/bztsrc/usbimager) - Дуже мінімалістичний графічний додаток, який може записувати стислі образи дисків на USB-накопичувачі.
+- [USBImager](https://gitlab.com/bztsrc/usbimager) - Дуже мінімалістичний графічний застосунок, який може записувати стислі образи дисків на USB-накопичувачі.
 - [MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Завантажуйте операційні системи безпосередньо з образів ISO/WIM. ![open][open.svg]
 - [Ventoy](https://www.ventoy.net/) - Інструмент для створення мультизавантажувальних USB. [![repo][repo.svg]](https://github.com/ventoy/Ventoy) ![open][open.svg]
 - [UUP dump](https://uupdump.net/) - Легко завантажуйте файли UUP з серверів Windows Update. [![repo][repo.svg]](https://git.uupdump.net/uup-dump) ![open][open.svg]
@@ -1491,7 +1491,7 @@
 
 ### Аналізатори використання диска
 
-- [Filelight](https://apps.kde.org/filelight/) - Додаток для візуалізації використання диска на вашому комп'ютері. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PFXCD722M2C)
+- [Filelight](https://apps.kde.org/filelight/) - Застосунок для візуалізації використання диска на вашому комп'ютері. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PFXCD722M2C)
 - [TreeSize Free](http://jam-software.com/) - Менеджер дискового простору TreeSize Free показує, куди подівся дорогоцінний дисковий простір. [![store][store.svg]](https://apps.microsoft.com/store/detail/treesize-free-x64/9N8XB04QLKCN)
 - [WizTree](https://www.diskanalyzer.com/) - Найшвидший аналізатор дискового простору.
 
@@ -1505,7 +1505,7 @@
 
 - [BleachBit](https://www.bleachbit.org/) - BleachBit очищає файли, щоб звільнити дисковий простір та зберегти конфіденційність. [![repo][repo.svg]](https://github.com/bleachbit/bleachbit) ![open][open.svg]
 - ❤️ [Eraser](https://eraser.heidi.ie/) - Інструмент для безпечного видалення даних для Windows.
-- [Permadelete](https://developerstree.github.io/permadelete/) - Простий у використанні та красивий додаток для безповоротного знищення файлів та папок. [![repo][repo.svg]](https://github.com/DevelopersTree/permadelete) [![store][store.svg]](https://apps.microsoft.com/store/detail/9MVHV99VWL64) ![open][open.svg]
+- [Permadelete](https://developerstree.github.io/permadelete/) - Простий у використанні та красивий застосунок для безповоротного знищення файлів та папок. [![repo][repo.svg]](https://github.com/DevelopersTree/permadelete) [![store][store.svg]](https://apps.microsoft.com/store/detail/9MVHV99VWL64) ![open][open.svg]
 - [Turbo Delete](https://github.com/XtremeDevX/turbo-delete) - Блискавична альтернатива стандартному видаленню Windows. ![open][open.svg]
 
 ### Моніторинг обладнання
@@ -1535,7 +1535,7 @@
 ### Спільне використання миші та клавіатури
 
 - [Barrier](https://github.com/debauchee/barrier) - Програмне забезпечення KVM з відкритим вихідним кодом. ![open][open.svg]
-- [Deskflow](https://deskflow.org/) - Безкоштовний додаток для спільного використання клавіатури та миші з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/deskflow/deskflow) ![open][open.svg]
+- [Deskflow](https://deskflow.org/) - Безкоштовний застосунок для спільного використання клавіатури та миші з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/deskflow/deskflow) ![open][open.svg]
 - [Input Leap](https://github.com/input-leap/input-leap) - Програмне забезпечення KVM з відкритим вихідним кодом. ![open][open.svg]
 - [InputShare](https://inputshare.github.io/) - Безшовно діліться клавіатурою, мишею та буфером обміну вашого комп'ютера з пристроєм Android за допомогою InputShare. [![repo][repo.svg]](https://github.com/InputShare/InputShare) ![open][open.svg]
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Спільне використання миші та клавіатури через LAN. ![open][open.svg]
@@ -1545,19 +1545,19 @@
 - [Chocolatey GUI](https://github.com/chocolatey/ChocolateyGUI) - Смачний графічний інтерфейс для Chocolatey. ![open][open.svg]
 - ❤️ [Chocolatey](https://chocolatey.org/) - Менеджер пакунків для Windows. [![repo][repo.svg]](https://github.com/chocolatey/choco) ![open][open.svg]
 - ❤️ [Scoop](https://scoop.sh/) - Інсталятор командного рядка для Windows. [![repo][repo.svg]](https://github.com/lukesampson/scoop)
-- [Fluent Store](https://github.com/yoshiask/FluentStore) - Уніфікований фронтенд для магазинів додатків та менеджерів пакунків Windows. ![open][open.svg]
+- [Fluent Store](https://github.com/yoshiask/FluentStore) - Уніфікований фронтенд для магазинів застосунків та менеджерів пакунків Windows. ![open][open.svg]
 - ❤️ [UniGetUI](https://www.marticliment.com/unigetui/) - Графічний інтерфейс для ваших менеджерів пакунків. [![repo][repo.svg]](https://github.com/marticliment/UniGetUI) [![store][store.svg]](https://apps.microsoft.com/detail/xpfftq032ptphf) ![open][open.svg]
 - ❤️ [winget](https://github.com/microsoft/winget-cli) - Відкритий CLI-менеджер пакунків від Microsoft для Windows. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH4NNS1) ![open][open.svg]
-- [winstall](https://winstall.app/) - Веб-додаток для перегляду та встановлення додатків Windows Package Manager. [![repo][repo.svg]](https://github.com/MehediH/winstall) ![open][open.svg]
+- [winstall](https://winstall.app/) - Веб-застосунок для перегляду та встановлення застосунків Windows Package Manager. [![repo][repo.svg]](https://github.com/MehediH/winstall) ![open][open.svg]
 - [Topgrade](https://github.com/topgrade-rs/topgrade) - Підтримка вашої системи в актуальному стані зазвичай вимагає виклику декількох менеджерів пакунків. ![open][open.svg]
-- [PortableApps.com](https://portableapps.com/) - Веб-сайт, що пропонує багато безкоштовних, широко використовуваних додатків для Windows, спеціально упакованих для портативності.
+- [PortableApps.com](https://portableapps.com/) - Веб-сайт, що пропонує багато безкоштовних, широко використовуваних застосунків для Windows, спеціально упакованих для портативності.
 - ❤️ [BCUninstaller](https://www.bcuninstaller.com/) - Безкоштовний деінсталятор програм. [![repo][repo.svg]](https://github.com/Klocman/Bulk-Crap-Uninstaller) ![open][open.svg]
 - ❤️ [GeekUninstaller](https://geekuninstaller.com/) - Портативний деінсталятор програмного забезпечення.
 
 ### Затемнення екрану
 
 - [f.lux](https://justgetflux.com/) - f.lux робить екран теплішим вночі, щоб допомогти вам розслабитися та заспокоїтися перед сном. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N9KDPHV91JT)
-- [LightBulb](https://github.com/Tyrrrz/LightBulb) - Додаток, який зменшує навантаження на очі, що виникає при тривалій роботі за комп'ютером у вечірній час. ![open][open.svg]
+- [LightBulb](https://github.com/Tyrrrz/LightBulb) - Застосунок, який зменшує навантаження на очі, що виникає при тривалій роботі за комп'ютером у вечірній час. ![open][open.svg]
 - [Monitorian](https://github.com/emoacht/Monitorian) - Настільний інструмент для Windows для легкого регулювання яскравості декількох моніторів. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NW33J738BL0) ![open][open.svg]
 - [Twinkle Tray](https://twinkletray.com/) - Легко керуйте яскравістю ваших моніторів у Windows з системного трея. [![repo][repo.svg]](https://github.com/xanderfrangos/twinkle-tray) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PLJWWSV01LK) ![open][open.svg]
 
@@ -1579,7 +1579,7 @@
 
 ### Інше
 
-- [AltStore](https://altstore.io/) - Альтернативний магазин додатків для пристроїв iOS без джейлбрейка. [![repo][repo.svg]](https://github.com/rileytestut/AltStore) ![open][open.svg]
+- [AltStore](https://altstore.io/) - Альтернативний магазин застосунків для пристроїв iOS без джейлбрейка. [![repo][repo.svg]](https://github.com/rileytestut/AltStore) ![open][open.svg]
 - [CompactGUI](https://github.com/ImminentFate/CompactGUI) - Візуальний інтерфейс для функції Compact у Windows 10.
 - ❤️ [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR] полегшує роботу зі сховищем драйверів Windows. ![open][open.svg]
 - [FontForge](http://fontforge.org/) - Безкоштовний (libre) редактор шрифтів для Windows, Mac OS X та GNU+Linux. [![repo][repo.svg]](https://github.com/fontforge/fontforge) ![open][open.svg]
@@ -1589,14 +1589,14 @@
 - [Key'n'Stroke](https://github.com/Phaiax/Key-n-Stroke) - Відображає натискання клавіш у спливаючому вікні та візуалізує кліки миші. ![open][open.svg]
 - [Keyviz](https://mularahul.github.io/keyviz) - Безкоштовний інструмент з відкритим вихідним кодом для візуалізації натискань клавіш у реальному часі. [![repo][repo.svg]](https://github.com/mulaRahul/keyviz) ![open][open.svg]
 - [NVDA](https://www.nvaccess.org/) - Безкоштовний екранний диктор з відкритим вихідним кодом для Microsoft Windows. [![repo][repo.svg]](https://github.com/nvaccess/nvda)
-- [Nyrna](https://nyrna.merritt.codes/) - Призупиняйте ігри та додатки. [![repo][repo.svg]](https://github.com/Merrit/nyrna) ![open][open.svg]
+- [Nyrna](https://nyrna.merritt.codes/) - Призупиняйте ігри та застосунки. [![repo][repo.svg]](https://github.com/Merrit/nyrna) ![open][open.svg]
 - [Plover](https://www.openstenoproject.org/plover/) - Стенографічний рушій з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/openstenoproject/plover) ![open][open.svg]
-- [Scanner](https://simon-knuth.github.io/scanner/index) - Універсальний додаток-сканер, створений для універсальної платформи Windows. [![repo][repo.svg]](https://github.com/simon-knuth/scanner) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N438MZHD3ZF) ![open][open.svg]
+- [Scanner](https://simon-knuth.github.io/scanner/index) - Універсальний застосунок-сканер, створений для універсальної платформи Windows. [![repo][repo.svg]](https://github.com/simon-knuth/scanner) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N438MZHD3ZF) ![open][open.svg]
 - [Screen Ruler](https://sourceforge.net/projects/screenruler/) - Легкий та настроюваний інструмент-лінійка для робочого столу Windows. [![repo][repo.svg]](https://github.com/Bluegrams/ScreenRuler) ![open][open.svg]
 - [Kanata](https://github.com/jtroo/kanata) - Кросплатформовий програмний перепризначувач клавіатури для Linux, macOS та Windows. ![open][open.svg]
 - [SharpKeys](http://www.randyrants.com/) - Утиліта, яка керує ключем реєстру, що дозволяє Windows перепризначати одну клавішу на будь-яку іншу. [![repo][repo.svg]](https://github.com/randyrants/sharpkeys) ![open][open.svg]
 - [Ten Hands](https://tenhands.app/) - Найпростіший спосіб організовувати та запускати завдання командного рядка. [![repo][repo.svg]](https://github.com/saisandeepvaddi/ten-hands) ![open][open.svg]
-- [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Кросплатформовий графічний інтерфейс, написаний на Rust, що використовує ADB для видалення непотрібних додатків на пристроях Android без рут-прав. ![open][open.svg]
+- [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Кросплатформовий графічний інтерфейс, написаний на Rust, що використовує ADB для видалення непотрібних застосунків на пристроях Android без рут-прав. ![open][open.svg]
 - [WinCompose](http://wincompose.info/) - Клавіша Compose для Windows. [![repo][repo.svg]](https://github.com/samhocevar/wincompose)
 - [X-Mouse Controls](https://joelpurra.com/projects/X-Mouse_Controls/) - Утиліта для Windows для ввімкнення або вимкнення відстеження активного вікна, підняття, а також затримки в мілісекундах. [![repo][repo.svg]](https://github.com/joelpurra/xmouse-controls) ![open][open.svg]
 
@@ -1608,12 +1608,12 @@
 - [Go2TV](https://github.com/alexballas/go2tv) - Транслюйте медіафайли на UPnP/DLNA Media Renderers та Smart TV. ![open][open.svg]
 - ❤️ [Jellyfin](https://jellyfin.org/) - Персональний медіасервер та клієнт. [![repo][repo.svg]](https://github.com/jellyfin) ![open][open.svg]
 - ❤️ [Kodi](https://kodi.tv/) - Відзначений нагородами безкоштовний медіаплеєр та розважальний центр з відкритим вихідним кодом для цифрових медіа для HTPC (домашніх кінотеатрів на ПК). [![repo][repo.svg]](https://github.com/xbmc/xbmc) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH4T892)
-- [Macast](https://xfangfang.github.io/Macast/) - Додаток у меню-барі, що використовує mpv як DLNA Media Renderer. [![repo][repo.svg]](https://github.com/xfangfang/Macast) ![open][open.svg]
+- [Macast](https://xfangfang.github.io/Macast/) - Застосунок у меню-барі, що використовує mpv як DLNA Media Renderer. [![repo][repo.svg]](https://github.com/xfangfang/Macast) ![open][open.svg]
 - [Universal Media Server](https://www.universalmediaserver.com/) - Медіасервер DLNA, UPnP та HTTP(S). [![repo][repo.svg]](https://github.com/UniversalMediaServer/UniversalMediaServer) ![open][open.svg]
 
 ### Інструменти для субтитрів
 
-- [pyTranscriber](https://pytranscriber.github.io/) - Додаток, який можна використовувати для створення автоматичної транскрипції / автоматичних субтитрів для аудіо/відео файлів через дружній графічний інтерфейс. [![repo][repo.svg]](https://github.com/raryelcostasouza/pyTranscriber) ![open][open.svg]
+- [pyTranscriber](https://pytranscriber.github.io/) - Застосунок, який можна використовувати для створення автоматичної транскрипції / автоматичних субтитрів для аудіо/відео файлів через дружній графічний інтерфейс. [![repo][repo.svg]](https://github.com/raryelcostasouza/pyTranscriber) ![open][open.svg]
 - [Subliminal](http://subliminal.readthedocs.org/) - Інструмент командного рядка для пошуку та завантаження субтитрів. [![repo][repo.svg]](https://github.com/Diaoul/subliminal) ![open][open.svg]
 - [SubSync](https://subsync.online/) - Інструмент для автоматичної синхронізації субтитрів до фільмів. [![repo][repo.svg]](https://github.com/sc0ty/subsync) ![open][open.svg]
 - [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - Безкоштовний редактор для відеосубтитрів. [![repo][repo.svg]](https://github.com/SubtitleEdit/subtitleedit) ![open][open.svg]
@@ -1623,12 +1623,12 @@
 - ❤️ [FFmpeg](https://ffmpeg.org/) - Колекція бібліотек та інструментів для обробки мультимедійного контенту, такого як аудіо, відео, субтитри та пов'язані метадані. [![repo][repo.svg]](https://git.ffmpeg.org/gitweb/ffmpeg.git) ![open][open.svg]
 - ❤️ [HandBrake](https://handbrake.fr/) - Відеотранскодер з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/HandBrake/HandBrake)
 - ❤️ [LosslessCut](https://mifi.no/losslesscut/) - Швейцарський ніж для редагування відео/аудіо без втрат. [![repo][repo.svg]](https://github.com/mifi/lossless-cut) [![store][store.svg]](https://apps.microsoft.com/store/detail/losslesscut/9P30LSR4705L) ![open][open.svg]
-- [VidCoder](https://vidcoder.net/) - Додаток з відкритим вихідним кодом для ріпінгу DVD/Blu-ray та транскодування відео. [![repo][repo.svg]](https://github.com/RandomEngy/VidCoder) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N78DHWZ3DJX) ![open][open.svg]
+- [VidCoder](https://vidcoder.net/) - Застосунок з відкритим вихідним кодом для ріпінгу DVD/Blu-ray та транскодування відео. [![repo][repo.svg]](https://github.com/RandomEngy/VidCoder) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N78DHWZ3DJX) ![open][open.svg]
 
 ### Відеоредактори
 
-- [Auto-Editor](https://auto-editor.com/) - Auto-Editor — це додаток командного рядка для автоматичного редагування відео та аудіо шляхом аналізу різних методів, зокрема гучності звуку. [![repo][repo.svg]](https://github.com/WyattBlue/auto-editor) ![open][open.svg]
-- ❤️ [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Додаток для корекції кольору та нелінійного відеомонтажу.
+- [Auto-Editor](https://auto-editor.com/) - Auto-Editor — це застосунок командного рядка для автоматичного редагування відео та аудіо шляхом аналізу різних методів, зокрема гучності звуку. [![repo][repo.svg]](https://github.com/WyattBlue/auto-editor) ![open][open.svg]
+- ❤️ [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Застосунок для корекції кольору та нелінійного відеомонтажу.
 - [Kdenlive](https://kdenlive.org/) - Безкоштовний відеоредактор з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/KDE/kdenlive) ![open][open.svg]
 - [Olive](https://olivevideoeditor.org/) - Безкоштовний нелінійний відеоредактор з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/olive-editor/olive) ![open][open.svg]
 - [OpenShot](http://www.openshot.org/) - Відзначений нагородами безкоштовний відеоредактор з відкритим вихідним кодом. [![repo][repo.svg]](https://github.com/OpenShot/openshot-qt) ![open][open.svg]
@@ -1656,15 +1656,15 @@
 - [LLPlayer](https://llplayer.com/) - Медіаплеєр для вивчення мов, з подвійними субтитрами, субтитрами, згенерованими ШІ, перекладом у реальному часі та багато іншого! [![repo][repo.svg]](https://github.com/umlx5h/LLPlayer) ![open][open.svg]
 - [QMPlay2](https://github.com/zaps166/QMPlay2) - Відео- та аудіоплеєр, який може відтворювати більшість форматів та кодеків. ![open][open.svg]
 - [Screenbox](https://github.com/huynhsontung/Screenbox) - Медіаплеєр на базі LibVLC для універсальної платформи Windows. [![store][store.svg]](https://www.microsoft.com/store/apps/9NTSNMSVCB5L) ![open][open.svg]
-- [IPTVnator](https://iptvnator.vercel.app/) - Додаток-відеоплеєр, що забезпечує підтримку відтворення IPTV-плейлистів (m3u, m3u8). [![repo][repo.svg]](https://github.com/4gray/iptvnator) ![open][open.svg]
-- [Open TV](https://github.com/Fredolx/open-tv) - Надшвидкий, простий та потужний кросплатформовий додаток для IPTV. [![store][store.svg]](https://apps.microsoft.com/detail/9pbwx3rkr1qx) ![open][open.svg]
+- [IPTVnator](https://iptvnator.vercel.app/) - Застосунок-відеоплеєр, що забезпечує підтримку відтворення IPTV-плейлистів (m3u, m3u8). [![repo][repo.svg]](https://github.com/4gray/iptvnator) ![open][open.svg]
+- [Open TV](https://github.com/Fredolx/open-tv) - Надшвидкий, простий та потужний кросплатформовий застосунок для IPTV. [![store][store.svg]](https://apps.microsoft.com/detail/9pbwx3rkr1qx) ![open][open.svg]
 - [Vodon Pro](https://github.com/Rodeoclash/vodon-pro) - Відеоплеєр, розроблений для тренерів з кіберспорту для перегляду записів гравців. ![open][open.svg]
-- [Pennywise](https://github.com/kamranahmedse/pennywise) - Кросплатформовий додаток для відкриття будь-якого веб-сайту або медіа у плаваючому вікні. ![open][open.svg]
+- [Pennywise](https://github.com/kamranahmedse/pennywise) - Кросплатформовий застосунок для відкриття будь-якого веб-сайту або медіа у плаваючому вікні. ![open][open.svg]
 
 ### Стримінг відео
 
-- ❤️ [FreeTube](https://freetubeapp.io/) - Додаток YouTube з відкритим вихідним кодом для конфіденційності. [![repo][repo.svg]](https://github.com/FreeTubeApp/FreeTube) ![open][open.svg]
-- [Grayjay](https://grayjay.app/desktop/) - Grayjay поєднує відеоконтент з декількох платформ, таких як YouTube, PeerTube, Twitch та інших, в одному додатку, усуваючи необхідність перемикатися між різними платформами.
+- ❤️ [FreeTube](https://freetubeapp.io/) - Застосунок YouTube з відкритим вихідним кодом для конфіденційності. [![repo][repo.svg]](https://github.com/FreeTubeApp/FreeTube) ![open][open.svg]
+- [Grayjay](https://grayjay.app/desktop/) - Grayjay поєднує відеоконтент з декількох платформ, таких як YouTube, PeerTube, Twitch та інших, в одному застосунку, усуваючи необхідність перемикатися між різними платформами.
 - [Materialious](https://materialio.us/) - Materialious — це фронтенд для YouTube, що поважає конфіденційність, побудований на базі Invidious. [![repo][repo.svg]](https://github.com/Materialious/Materialious) ![open][open.svg]
 - [Invidious](https://invidious.io/) - Альтернативний фронтенд для YouTube. [![repo][repo.svg]](https://github.com/iv-org/invidious) ![open][open.svg]
 - ❤️ [Piped](https://piped.video/) - Альтернативний, дружній до конфіденційності фронтенд для YouTube, який є ефективним за своєю суттю. [![repo][repo.svg]](https://github.com/TeamPiped/Piped) ![open][open.svg]
@@ -1681,7 +1681,7 @@
 
 ### Інше
 
-- [DVDStyler](https://www.dvdstyler.org/) - Кросплатформовий безкоштовний додаток для авторингу DVD.
+- [DVDStyler](https://www.dvdstyler.org/) - Кросплатформовий безкоштовний застосунок для авторингу DVD.
 - [Gyroflow](https://gyroflow.xyz/) - Стабілізація відео за допомогою даних гіроскопа. [![repo][repo.svg]](https://github.com/gyroflow/gyroflow) ![open][open.svg]
 - [IPTV](https://github.com/iptv-org/iptv) - Колекція загальнодоступних IPTV-каналів з усього світу.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) - MediaInfo — це зручне уніфіковане відображення найважливіших технічних та тегових даних для відео- та аудіофайлів. [![repo][repo.svg]](https://github.com/MediaArea/MediaInfo) ![open][open.svg]
@@ -1693,13 +1693,13 @@
 ## Відоме програмне забезпечення не для Windows
 
 - [GParted](https://gparted.org/) - Безкоштовний редактор розділів для графічного управління вашими дисковими розділами. ![open][open.svg]
-- [Rescuezilla](https://rescuezilla.com/) - Простий у використанні додаток для створення образів дисків з відкритим вихідним кодом, повністю сумісний з Clonezilla. [![repo][repo.svg]](https://github.com/rescuezilla/rescuezilla) ![open][open.svg]
+- [Rescuezilla](https://rescuezilla.com/) - Простий у використанні застосунок для створення образів дисків з відкритим вихідним кодом, повністю сумісний з Clonezilla. [![repo][repo.svg]](https://github.com/rescuezilla/rescuezilla) ![open][open.svg]
 
 ---
 
 ## Посилання та подяки
 
-***⬆️[повернутися до змісту](#contents)⬆️***
+***⬆️[повернутися до змісту](#зміст)⬆️***
 
 - [GitHub](https://github.com/)
 - [AlternativeTo](https://alternativeto.net/)
@@ -1714,7 +1714,7 @@
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)
 - [Piracy Index](https://piracy.vercel.app/)
 - [degoogle](https://tycrek.github.io/degoogle/)
-- [Awesome Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Підібраний список чудових веб-додатків, які працюють, не вимагаючи створення облікового запису.
+- [Awesome Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Підібраний список чудових веб-застосунків, які працюють, не вимагаючи створення облікового запису.
 - [Alternative frontends](https://github.com/digitalblossom/alternative-frontends) - Це список фронтендів, що поважають конфіденційність, до популярних сервісів, таких як соціальні мережі.
 - [Awesome Humane Tech](https://community.humanetech.com/) - Просування рішень, що покращують добробут, свободу та суспільство. [![repo][repo.svg]](https://github.com/humanetech-community/awesome-humane-tech)
 - [ethical.net](https://ethical.net/) - Некомерційний проект, що створює спільний онлайн-каталог етичних компаній усіх видів.
