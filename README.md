@@ -32,48 +32,48 @@
     <details>
       <summary><a href="#аудіо">Аудіо</a></summary>
       <ul>
-        <li><a href="#audio-editors">Аудіоредактори</a></li>
-        <li><a href="#audio-players">Аудіоплеєри</a></li>
-        <li><a href="#music-production">Створення музики</a></li>
-        <li><a href="#music-streaming">Стримінг музики</a></li>
-        <li><a href="#music-tag-editors">Редактори тегів музики</a></li>
-        <li><a href="#sound-equalizers">Еквалайзери звуку</a></li>
-        <li><a href="#volume-control">Регулювання гучності</a></li>
-        <li><a href="#others">Інше</a></li>
+        <li><a href="#аудіоредактори">Аудіоредактори</a></li>
+        <li><a href="#аудіоплеєри">Аудіоплеєри</a></li>
+        <li><a href="#створення-музики">Створення музики</a></li>
+        <li><a href="#стримінг-музики">Стримінг музики</a></li>
+        <li><a href="#редактори-тегів-музики">Редактори тегів музики</a></li>
+        <li><a href="#еквалайзери-звуку">Еквалайзери звуку</a></li>
+        <li><a href="#регулювання-гучності">Регулювання гучності</a></li>
+        <li><a href="#інше">Інше</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#backup-and-sync">Резервне копіювання та синхронізація</a></summary>
+      <summary><a href="#резервне-копіювання-та-синхронізація">Резервне копіювання та синхронізація</a></summary>
       <ul>
-        <li><a href="#cloud-storage">Хмарні сховища</a></li>
-        <li><a href="#others-1">Інше</a></li>
+        <li><a href="#хмарні-сховища">Хмарні сховища</a></li>
+        <li><a href="#інше-1">Інше</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#books-and-readers">Книги та читалки</a></summary>
+      <summary><a href="#книги-та-читалки">Книги та читалки</a></summary>
       <ul>
-        <li><a href="#books">Книги</a></li>
-        <li><a href="#ebook-readers">Читалки електронних книг</a></li>
-        <li><a href="#rss-readers">RSS-рідери</a></li>
+        <li><a href="#книги">Книги</a></li>
+        <li><a href="#читалки-електронних-книг">Читалки електронних книг</a></li>
+        <li><a href="#rss-рідери">RSS-рідери</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#browsers-and-extensions">Браузери та розширення</a></summary>
+      <summary><a href="#браузери-та-розширення">Браузери та розширення</a></summary>
       <ul>
-        <li><a href="#browsers">Браузери</a></li>
+        <li><a href="#браузери">Браузери</a></li>
         <li>
-          <a href="#extensions">Розширення</a>
+          <a href="#розширення">Розширення</a>
           <ul>
-            <li><a href="#new-tab-page">Сторінка нової вкладки</a></li>
-            <li><a href="#privacy-extensions">Розширення для конфіденційності</a></li>
-            <li><a href="#bookmark-managers">Менеджери закладок</a></li>
-            <li><a href="#others-2">Інші</a></li>
+            <li><a href="#сторінка-нової-вкладки">Сторінка нової вкладки</a></li>
+            <li><a href="#розширення-для-конфіденційності">Розширення для конфіденційності</a></li>
+            <li><a href="#менеджери-закладок">Менеджери закладок</a></li>
+            <li><a href="#інші-2">Інші</a></li>
           </ul>
         </li>
       </ul>
@@ -81,247 +81,246 @@
   </li>
   <li>
     <details>
-      <summary><a href="#communication">Комунікація</a></summary>
+      <summary><a href="#комунікація">Комунікація</a></summary>
       <ul>
         <li>
-          <a href="#email">Електронна пошта</a>
+          <a href="#електронна-пошта">Електронна пошта</a>
           <ul>
-            <li><a href="#email-clients">Поштові клієнти</a></li>
-            <li><a href="#email-forwarding-services">Сервіси переадресації пошти</a></li>
-            <li><a href="#email-providers">Поштові провайдери</a></li>
-            <li><a href="#temporary-email-services">Сервіси тимчасової пошти</a></li>
+            <li><a href="#поштові-клієнти">Поштові клієнти</a></li>
+            <li><a href="#сервіси-переадресації-пошти">Сервіси переадресації пошти</a></li>
+            <li><a href="#поштові-провайдери">Поштові провайдери</a></li>
+            <li><a href="#сервіси-тимчасової-пошти">Сервіси тимчасової пошти</a></li>
           </ul>
         </li>
-        <li><a href="#im">Миттєві повідомлення (IM)</a></li>
-        <li><a href="#social-media">Соціальні мережі</a></li>
+        <li><a href="#миттєві-повідомлення-(im)">Миттєві повідомлення (IM)</a></li>
+        <li><a href="#соціальні-мережі">Соціальні мережі</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#development">Розробка</a></summary>
+      <summary><a href="#розробка">Розробка</a></summary>
       <ul>
-        <li><a href="#statistical-analysis">Статистичний аналіз</a></li>
-        <li><a href="#terminal-emulators">Емулятори терміналу</a></li>
-        <li><a href="#text-editors">Текстові редактори</a></li>
-        <li><a href="#others-3">Інше</a></li>
+        <li><a href="#статистичний-аналіз">Статистичний аналіз</a></li>
+        <li><a href="#емулятори-терміналу">Емулятори терміналу</a></li>
+        <li><a href="#текстові-редактори">Текстові редактори</a></li>
+        <li><a href="#інше-3">Інше</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#downloaders">Завантажувачі</a></summary>
+      <summary><a href="#завантажувачі">Завантажувачі</a></summary>
       <ul>
-        <li><a href="#download-managers">Менеджери завантажень</a></li>
-        <li><a href="#media-downloaders">Завантажувачі медіа</a></li>
-        <li><a href="#torrent-clients">Торрент-клієнти</a></li>
+        <li><a href="#менеджери-завантажень">Менеджери завантажень</a></li>
+        <li><a href="#завантажувачі-медіа">Завантажувачі медіа</a></li>
+        <li><a href="#торрент-клієнти">Торрент-клієнти</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#education">Освіта</a></summary>
+      <summary><a href="#освіта">Освіта</a></summary>
       <ul>
-        <li><a href="#online-education-services">Онлайн-освітні сервіси</a></li>
-        <li><a href="#reference-management">Управління бібліографією</a></li>
-        <li><a href="#translators">Перекладачі</a></li>
-        <li><a href="#others-4">Інше</a></li>
+        <li><a href="#онлайн-освітні-сервіси">Онлайн-освітні сервіси</a></li>
+        <li><a href="#управління-бібліографією">Управління бібліографією</a></li>
+        <li><a href="#перекладачі">Перекладачі</a></li>
+        <li><a href="#інше-4">Інше</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#file-management">Управління файлами</a></summary>
+      <summary><a href="#управління-файлами">Управління файлами</a></summary>
       <ul>
-        <li><a href="#duplicate-file-finders">Пошук дублікатів файлів</a></li>
-        <li><a href="#file-archivers">Архіватори</a></li>
-        <li><a href="#file-converters">Конвертери файлів</a></li>
-        <li><a href="#file-managers">Файлові менеджери</a></li>
-        <li><a href="#file-renamers">Перейменування файлів</a></li>
+        <li><a href="#пошук-дублікатів-файлів">Пошук дублікатів файлів</a></li>
+        <li><a href="#архіватори">Архіватори</a></li>
+        <li><a href="#конвертери-файлів">Конвертери файлів</a></li>
+        <li><a href="#файлові-менеджери">Файлові менеджери</a></li>
+        <li><a href="#перейменування-файлів">Перейменування файлів</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#file-sharing">Обмін файлами</a></summary>
+      <summary><a href="#обмін-файлами">Обмін файлами</a></summary>
       <ul>
-        <li><a href="#file-sharing-web-apps">Веб-програми для обміну файлами</a></li>
-        <li><a href="#lan-file-sharing">Обмін файлами в локальній мережі</a></li>
-        <li><a href="#others-5">Інше</a></li>
+        <li><a href="#веб-програми-для-обміну-файлами">Веб-програми для обміну файлами</a></li>
+        <li><a href="#обмін-файлами-в-локальній-мережі">Обмін файлами в локальній мережі</a></li>
+        <li><a href="#інше-5">Інше</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#games-and-tools">Ігри та інструменти</a></summary>
+      <summary><a href="#ігри-та-інструменти">Ігри та інструменти</a></summary>
       <ul>
-        <li><a href="#game-emulators">Емулятори ігор</a></li>
-        <li><a href="#game-launchers">Ігрові лаунчери</a></li>
-        <li><a href="#game-stores">Ігрові магазини</a></li>
-        <li><a href="#games">Ігри</a></li>
-        <li><a href="#gaming-utilities">Ігрові утиліти</a></li>
+        <li><a href="#емулятори-ігор">Емулятори ігор</a></li>
+        <li><a href="#ігрові-лаунчери">Ігрові лаунчери</a></li>
+        <li><a href="#ігрові-магазини">Ігрові магазини</a></li>
+        <li><a href="#ігри">Ігри</a></li>
+        <li><a href="#ігрові-утиліти">Ігрові утиліти</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#graphics">Графіка</a></summary>
+      <summary><a href="#графіка">Графіка</a></summary>
       <ul>
-        <li><a href="#2d-and-3d">2D та 3D</a></li>
-        <li><a href="#design-tools">Інструменти для дизайну</a></li>
-        <li><a href="#digital-painting">Цифровий живопис</a></li>
-        <li><a href="#image-editors">Редактори зображень</a></li>
-        <li><a href="#image-optimizers">Оптимізатори зображень</a></li>
-        <li><a href="#image-viewers">Переглядачі зображень</a></li>
-        <li><a href="#ocr">Оптичне розпізнавання символів (OCR)</a></li>
-        <li><a href="#pixel-editors">Піксельні редактори</a></li>
-        <li><a href="#remove-image-background">Видалення фону зображень</a></li>
-        <li><a href="#screen-recorders">Запис екрану</a></li>
-        <li><a href="#screenshot">Скріншоти</a></li>
+        <li><a href="#2d-та-3d">2D та 3D</a></li>
+        <li><a href="#інструменти-для-дизайну">Інструменти для дизайну</a></li>
+        <li><a href="#цифровий-живопис">Цифровий живопис</a></li>
+        <li><a href="#редактори-зображень">Редактори зображень</a></li>
+        <li><a href="#оптимізатори-зображень">Оптимізатори зображень</a></li>
+        <li><a href="#переглядачі-зображень">Переглядачі зображень</a></li>
+        <li><a href="#оптичне-розпізнавання-символів-(ocr)">Оптичне розпізнавання символів (OCR)</a></li>
+        <li><a href="#піксельні-редактори">Піксельні редактори</a></li>
+        <li><a href="#видалення-фону-зображень">Видалення фону зображень</a></li>
+        <li><a href="#запис-екрану">Запис екрану</a></li>
+        <li><a href="#скріншоти">Скріншоти</a></li>
         <li><a href="#vtuber">VTuber</a></li>
-        <li><a href="#webcam-recorders">Запис з вебкамери</a></li>
-        <li><a href="#whiteboards">Інтерактивні дошки</a></li>
-        <li><a href="#others-6">Інше</a></li>
+        <li><a href="#запис-з-вебкамери">Запис з вебкамери</a></li>
+        <li><a href="#інтерактивні-дошки">Інтерактивні дошки</a></li>
+        <li><a href="#інше-6">Інше</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#health-and-fitness">Здоров'я та фітнес</a></summary>
+      <summary><a href="#здоров'я-та-фітнес">Здоров'я та фітнес</a></summary>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#network-and-admin">Мережа та адміністрування</a></summary>
+      <summary><a href="#мережа-та-адміністрування">Мережа та адміністрування</a></summary>
       <ul>
-        <li><a href="#network-monitors">Моніторинг мережі</a></li>
-        <li><a href="#remote-desktop">Віддалений робочий стіл</a></li>
-        <li><a href="#screen-sharing">Демонстрація екрану</a></li>
-        <li><a href="#virtual-lan">Віртуальна локальна мережа (VLAN)</a></li>
-        <li><a href="#virtualization">Віртуалізація</a></li>
-        <li><a href="#others-7">Інше</a></li>
+        <li><a href="#моніторинг-мережі">Моніторинг мережі</a></li>
+        <li><a href="#віддалений-робочий-стіл">Віддалений робочий стіл</a></li>
+        <li><a href="#демонстрація-екрану">Демонстрація екрану</a></li>
+        <li><a href="#віртуальна-локальна-мережа-(vlan)">Віртуальна локальна мережа (VLAN)</a></li>
+        <li><a href="#віртуалізація">Віртуалізація</a></li>
+        <li><a href="#інше-7">Інше</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#online-services">Онлайн-сервіси</a></summary>
+      <summary><a href="#онлайн-сервіси">Онлайн-сервіси</a></summary>
       <ul>
-        <li><a href="#app-discovery-services">Сервіси для пошуку додатків</a></li>
-        <li><a href="#privacy-and-security-guides">Посібники з конфіденційності та безпеки</a></li>
-        <li><a href="#search-engines">Пошукові системи</a></li>
-        <li><a href="#secret-sharing">Обмін секретами</a></li>
-        <li><a href="#survey-tools">Інструменти для опитувань</a></li>
-        <li><a href="#url-shorteners">Скорочувачі URL</a></li>
-        <li><a href="#others-8">Інше</a></li>
+        <li><a href="#сервіси-для-пошуку-додатків">Сервіси для пошуку додатків</a></li>
+        <li><a href="#посібники-з-конфіденційності-та-безпеки">Посібники з конфіденційності та безпеки</a></li>
+        <li><a href="#пошукові-системи">Пошукові системи</a></li>
+        <li><a href="#обмін-секретами">Обмін секретами</a></li>
+        <li><a href="#інструменти-для-опитувань">Інструменти для опитувань</a></li>
+        <li><a href="#скорочувачі-url">Скорочувачі URL</a></li>
+        <li><a href="#інше-8">Інше</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#personal-finance">Особисті фінанси</a></summary>
+      <summary><a href="#особисті-фінанси">Особисті фінанси</a></summary>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#personalization">Персоналізація</a></summary>
+      <summary><a href="#персоналізація">Персоналізація</a></summary>
       <ul>
-        <li><a href="#desktop-mascot">Маскоти робочого столу</a></li>
-        <li><a href="#taskbar-tweakers">Налаштування панелі завдань</a></li>
-        <li><a href="#wallpaper-management">Керування шпалерами</a></li>
-        <li><a href="#others-9">Інше</a></li>
+        <li><a href="#маскоти-робочого-столу">Маскоти робочого столу</a></li>
+        <li><a href="#налаштування-панелі-завдань">Налаштування панелі завдань</a></li>
+        <li><a href="#керування-шпалерами">Керування шпалерами</a></li>
+        <li><a href="#інше-9">Інше</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#privacy-and-security">Конфіденційність та безпека</a></summary>
+      <summary><a href="#конфіденційність-та-безпека">Конфіденційність та безпека</a></summary>
       <ul>
-        <li><a href="#antivirus">Антивіруси</a></li>
-        <li><a href="#decentralized-networks">Децентралізовані мережі</a></li>
+        <li><a href="#антивіруси">Антивіруси</a></li>
+        <li><a href="#децентралізовані-мережі">Децентралізовані мережі</a></li>
         <li>
-          <a href="#encryption-tools">Інструменти шифрування</a>
+          <a href="#інструменти-шифрування">Інструменти шифрування</a>
           <ul>
-            <li><a href="#disk-encryption-tools">Шифрування дисків</a></li>
-            <li><a href="#steganography-tools">Стеганографія</a></li>
-            <li><a href="#others-10">Інше</a></li>
+            <li><a href="#шифрування-дисків">Шифрування дисків</a></li>
+            <li><a href="#стеганографія">Стеганографія</a></li>
+            <li><a href="#інше-10">Інше</a></li>
           </ul>
         </li>
-        <li><a href="#firewalls">Брандмауери</a></li>
-        <li><a href="#password-managers">Менеджери паролів</a></li>
-        <li><a href="#remove-exif-data">Видалення EXIF-даних</a></li>
-        <li><a href="#system-tweakers">Налаштування системи</a></li>
+        <li><a href="#брандмауери">Брандмауери</a></li>
+        <li><a href="#менеджери-паролів">Менеджери паролів</a></li>
+        <li><a href="#видалення-exif-даних">Видалення EXIF-даних</a></li>
+        <li><a href="#налаштування-системи">Налаштування системи</a></li>
         <li><a href="#vpn">VPN</a></li>
-        <li><a href="#others-11">Інше</a></li>
+        <li><a href="#інше-11">Інше</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#productivity">Продуктивність</a></summary>
+      <summary><a href="#продуктивність">Продуктивність</a></summary>
       <ul>
-        <li><a href="#automation">Автоматизація</a></li>
-        <li><a href="#calendars">Календарі</a></li>
-        <li><a href="#clipboard-managers">Менеджери буфера обміну</a></li>
-        <li><a href="#file-search">Пошук файлів</a></li>
-        <li><a href="#journaling">Ведення щоденника</a></li>
-        <li><a href="#markdown-editors">Редактори Markdown</a></li>
-        <li><a href="#mind-mapping">Створення інтелект-карт</a></li>
-        <li><a href="#note-taking">Нотатки</a></li>
-        <li><a href="#office">Офісні пакети</a></li>
-        <li><a href="#pdf-editors">Редактори PDF</a></li>
-        <li><a href="#task-management">Управління завданнями</a></li>
-        <li><a href="#time-tracking">Відстеження часу</a></li>
-        <li><a href="#weather">Погода</a></li>
-        <li><a href="#writing-tools">Інструменти для письма</a></li>
-        <li><a href="#others-12">Інше</a></li>
+        <li><a href="#автоматизація">Автоматизація</a></li>
+        <li><a href="#календарі">Календарі</a></li>
+        <li><a href="#менеджери-буфера-обміну">Менеджери буфера обміну</a></li>
+        <li><a href="#пошук-файлів">Пошук файлів</a></li>
+        <li><a href="#ведення-щоденника">Ведення щоденника</a></li>
+        <li><a href="#редактори-markdown">Редактори Markdown</a></li>
+        <li><a href="#створення-інтелект-карт">Створення інтелект-карт</a></li>
+        <li><a href="#нотатки">Нотатки</a></li>
+        <li><a href="#офісні-пакети">Офісні пакети</a></li>
+        <li><a href="#редактори-pdf">Редактори PDF</a></li>
+        <li><a href="#управління-завданнями">Управління завданнями</a></li>
+        <li><a href="#відстеження-часу">Відстеження часу</a></li>
+        <li><a href="#погода">Погода</a></li>
+        <li><a href="#інструменти-для-письма">Інструменти для письма</a></li>
+        <li><a href="#інше-12">Інше</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#utilities">Утиліти</a></summary>
+      <summary><a href="#утиліти">Утиліти</a></summary>
       <ul>
-        <li><a href="#application-launchers">Запускачі програм</a></li>
-        <li><a href="#context-menu-managers">Менеджери контекстного меню</a></li>
-        <li><a href="#disk-imaging">Створення образів дисків</a></li>
-        <li><a href="#disk-usage-analyzers">Аналізатори використання диска</a></li>
-        <li><a href="#file-recovery">Відновлення файлів</a></li>
-        <li><a href="#file-shredders">Знищення файлів</a></li>
+        <li><a href="#запускачі-програм">Запускачі програм</a></li>
+        <li><a href="#менеджери-контекстного-меню">Менеджери контекстного меню</a></li>
+        <li><a href="#створення-образів-дисків">Створення образів дисків</a></li>
+        <li><a href="#аналізатори-використання-диска">Аналізатори використання диска</a></li>
+        <li><a href="#відновлення-файлів">Відновлення файлів</a></li>
+        <li><a href="#знищення-файлів">Знищення файлів</a></li>
         <li>
-          <a href="#hardware-monitoring">Моніторинг обладнання</a>
+          <a href="#моніторинг-обладнання">Моніторинг обладнання</a>
           <ul>
-            <li><a href="#fan-control">Керування вентиляторами</a></li>
-            <li><a href="#rgb-lighting-control">Керування RGB-підсвічуванням</a></li>
-            <li><a href="#others-13">Інше</a></li>
+            <li><a href="#керування-вентиляторами">Керування вентиляторами</a></li>
+            <li><a href="#керування-rgb-підсвічуванням">Керування RGB-підсвічуванням</a></li>
+            <li><a href="#інше-13">Інше</a></li>
           </ul>
         </li>
-        <li><a href="#mouse-and-keyboard-sharing">Спільне використання миші та клавіатури</a></li>
-        <li><a href="#package-managers">Менеджери пакунків</a></li>
-        <li><a href="#screen-dimmers">Затемнення екрану</a></li>
-        <li><a href="#system-administration">Системне адміністрування</a></li>
-        <li><a href="#window-managers">Менеджери вікон</a></li>
-        <li><a href="#others-14">Інше</a></li>
+        <li><a href="#спільне-використання-миші-та-клавіатури">Спільне використання миші та клавіатури</a></li>
+        <li><a href="#менеджери-пакунків">Менеджери пакунків</a></li>
+        <li><a href="#затемнення-екрану">Затемнення екрану</a></li>
+        <li><a href="#системне-адміністрування">Системне адміністрування</a></li>
+        <li><a href="#менеджери-вікон">Менеджери вікон</a></li>
+        <li><a href="#інше-14">Інше</a></li>
       </ul>
     </details>
   </li>
   <li>
     <details>
-      <summary><a href="#video">Відео</a></summary>
+      <summary><a href="#відео">Відео</a></summary>
       <ul>
-        <li><a href="#media-servers">Медіасервери</a></li>
-        <li><a href="#subtitles-tools">Інструменти для субтитрів</a></li>
-        <li><a href="#video-converters">Відеоконвертери</a></li>
-        <li><a href="#video-editors">Відеоредактори</a></li>
-        <li><a href="#video-players">Відеоплеєри</a></li>
-        <li><a href="#video-streaming">Стримінг відео</a></li>
-        <li><a href="#watch-videos-together">Спільний перегляд відео</a></li>
-        <li><a href="#others-15">Інше</a></li>
+        <li><a href="#медіасервери">Медіасервери</a></li>
+        <li><a href="#інструменти-для-субтитрів">Інструменти для субтитрів</a></li>
+        <li><a href="#відеоконвертери">Відеоконвертери</a></li>
+        <li><a href="#відеоредактори">Відеоредактори</a></li>
+        <li><a href="#відеоплеєри">Відеоплеєри</a></li>
+        <li><a href="#стримінг-відео">Стримінг відео</a></li>
+        <li><a href="#спільний-перегляд-відео">Спільний перегляд відео</a></li>
+        <li><a href="#інше-15">Інше</a></li>
       </ul>
     </details>
   </li>
 </ol>
-
 ---
 
 ## Штучний інтелект
